@@ -147,7 +147,7 @@ Curated libraries for a faster workflow
 
 # Phase: Production
 ## Scalability
-- Parallelize .apply in Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter)
+- Parallelize .apply in Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter), [modin](https://github.com/modin-project/modin)
 
 ## Bechmarking
 - Profile pytorch layers: [torchprof](https://github.com/awwong1/torchprof)
