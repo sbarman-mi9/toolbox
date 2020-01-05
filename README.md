@@ -46,7 +46,7 @@ Curated libraries for a faster workflow
 
 # Phase: Feature Engineering
 ## Feature Generation
-- Automatic feature engineering: [featuretools](https://github.com/FeatureLabs/featuretools), [autopandas](https://autopandas.io/)
+- Automatic feature engineering: [featuretools](https://github.com/FeatureLabs/featuretools), [autopandas](https://autopandas.io/), [tsfresh (automatic feature engineering for time series)](https://github.com/blue-yonder/tsfresh)
 - Custom distance metric learning: [metric-learn](http://contrib.scikit-learn.org/metric-learn/getting_started.html)
 - List of holidays: [python-holidays](https://github.com/dr-prodigy/python-holidays)
 
