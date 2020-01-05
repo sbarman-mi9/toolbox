@@ -145,6 +145,10 @@ Curated libraries for a faster workflow
 - High dimensional visualization: [umap](https://github.com/lmcinnes/umap)
 
 # Phase: Production
+## Model Serialization
+- Transpiling: [sklearn-porter (transpile sklearn model to C, Java, JavaScript and others)](https://github.com/nok/sklearn-porter), [m2cgen](https://github.com/BayesWitnesses/m2cgen)
+- Pickling extended: [cloudpickle](https://github.com/cloudpipe/cloudpickle), [jsonpickle](https://github.com/jsonpickle/jsonpickle)
+
 ## Scalability
 - Parallelize Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter), [modin](https://github.com/modin-project/modin)
 
@@ -158,10 +162,6 @@ Curated libraries for a faster workflow
 - Caching: [cachetools](https://pypi.org/project/cachetools/), [cachew (cache to local sqlite)](https://github.com/karlicoss/cachew)
 - Authentication: [pyjwt (JWT)](https://github.com/jpadilla/pyjwt)
 - Task Queue: [rq](https://github.com/rq/rq)
-
-## Serialization
-- Transpiling: [sklearn-porter (transpile sklearn model to C, Java, JavaScript and others)](https://github.com/nok/sklearn-porter), [m2cgen](https://github.com/BayesWitnesses/m2cgen)
-- Pickling extended: [cloudpickle](https://github.com/cloudpipe/cloudpickle)
 
 ## Dashboard
 - Generate frontend with python: [streamlit](https://github.com/streamlit/streamlit)
