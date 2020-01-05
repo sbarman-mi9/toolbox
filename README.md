@@ -2,16 +2,16 @@
 Curated libraries for a faster workflow
 
 # Phase: Data
-## Annotation
+## Data Annotation
 - Image: [makesense.ai](https://www.makesense.ai/) 
 - Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/)
 
-## Dataset
+## Datasets
 - Text: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words)](https://github.com/dwyl/english-words), [10K most common words](https://github.com/first20hours/google-10000-english)
 - Image: [1 million fake faces](https://archive.org/details/1mFakeFaces)
 - Dataset search engine: [datasetlist](https://www.datasetlist.com/), [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php)
 
-## Fetch data
+## Importing Data
 - Audio: [pydub](https://github.com/jiaaro/pydub)
 - Video: [pytube (download youTube vidoes)](https://github.com/nficano/pytube)
 - Image: [py-image-dataset-generator (auto fetch images from web for certain search)](https://github.com/tomahim/py-image-dataset-generator)
@@ -35,7 +35,7 @@ Curated libraries for a faster workflow
 - Split images into train/validation/test: [split-folders](https://github.com/jfilter/split-folders)
 - Class Imbalance: [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html)
 
-## Experiment in notebooks
+## Notebook Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
 - Parametrize notebooks: [papermill](https://github.com/nteract/papermill)
 - Access notebooks programatically: [nbformat](https://nbformat.readthedocs.io/en/latest/api.html)
@@ -44,7 +44,7 @@ Curated libraries for a faster workflow
 - Maps in notebooks: [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
 
 # Phase: Feature Engineering
-## Generate Features
+## Feature Generation
 - Automatic feature engineering: [featuretools](https://github.com/FeatureLabs/featuretools), [autopandas](https://autopandas.io/)
 - Custom distance metric learning: [metric-learn](http://contrib.scikit-learn.org/metric-learn/getting_started.html)
 - List of holidays: [python-holidays](https://github.com/dr-prodigy/python-holidays)
@@ -55,13 +55,6 @@ Curated libraries for a faster workflow
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
 - Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota)
 - Find SOTA models: [sotawhat](https://sotawhat.herokuapp.com)
-
-## Framework extensions
-- Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary), [skorch (wrap pytorch in scikit-learn compatible API)](https://github.com/skorch-dev/skorch)
-- Einstein notation: [einops](https://github.com/arogozhnikov/einops)
-- Scikit-learn: [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html)
-
-## Algorithms
 - Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html)
 - Hidden Markov Models: [hmmlearn](https://github.com/hmmlearn/hmmlearn)
 - Genetic Programming: [gplearn](https://gplearn.readthedocs.io/en/stable/index.html)
@@ -119,8 +112,13 @@ Curated libraries for a faster workflow
 - Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
 - Scikit-learn like API: [sktime](https://github.com/alan-turing-institute/sktime)
 
+## Framework extensions
+- Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary), [skorch (wrap pytorch in scikit-learn compatible API)](https://github.com/skorch-dev/skorch)
+- Einstein notation: [einops](https://github.com/arogozhnikov/einops)
+- Scikit-learn: [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html)
+
 # Phase: Monitoring
-## Monitor training process
+## Model Training Monitoring
 - Learning curve: [lrcurve (plot realtime learning curve in Keras)](https://github.com/AndreasMadsen/python-lrcurve), [livelossplot](https://github.com/stared/livelossplot)
 - Notifications: [knockknock (get notified by slack/email)](https://github.com/huggingface/knockknock), [jupyter-notify (notify when task is completed in jupyter)](https://github.com/ShopRunner/jupyter-notify)
 
@@ -147,23 +145,24 @@ Curated libraries for a faster workflow
 
 # Phase: Production
 ## Scalability
-- Parallelize .apply in Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter), [modin](https://github.com/modin-project/modin)
+- Parallelize Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter), [modin](https://github.com/modin-project/modin)
 
-## Bechmarking
+## Bechmark
 - Profile pytorch layers: [torchprof](https://github.com/awwong1/torchprof)
 
 ## API
-- Read config files: [config](https://pypi.org/project/config/), [python-decouple](https://github.com/henriquebastos/python-decouple)
+- Configuration Management: [config](https://pypi.org/project/config/), [python-decouple](https://github.com/henriquebastos/python-decouple)
 - Data Validation: [schema](https://github.com/keleshev/schema), [jsonschema](https://pypi.org/project/jsonschema/), [cerebrus](https://github.com/pyeve/cerberus), [pydantic](https://pydantic-docs.helpmanual.io/), [marshmallow](https://marshmallow.readthedocs.io/en/stable/)
 - Enable CORS in Flask: [flask-cors](https://flask-cors.readthedocs.io/en/latest/)
-- Cache results of functions: [cachetools](https://pypi.org/project/cachetools/), [cachew (cache to local sqlite)](https://github.com/karlicoss/cachew)
+- Caching: [cachetools](https://pypi.org/project/cachetools/), [cachew (cache to local sqlite)](https://github.com/karlicoss/cachew)
 - Authentication: [pyjwt (JWT)](https://github.com/jpadilla/pyjwt)
 - Task Queue: [rq](https://github.com/rq/rq)
 
 ## Serialization
 - Transpiling: [sklearn-porter (transpile sklearn model to C, Java, JavaScript and others)](https://github.com/nok/sklearn-porter), [m2cgen](https://github.com/BayesWitnesses/m2cgen)
+- Pickling extended: [cloudpickle](https://github.com/cloudpipe/cloudpickle)
 
-## Dashboards
+## Dashboard
 - Generate frontend with python: [streamlit](https://github.com/streamlit/streamlit)
 
 ## Adversarial testing
@@ -177,4 +176,3 @@ Curated libraries for a faster workflow
 - Pretty print tables in CLI: [tabulate](https://pypi.org/project/tabulate/)
 - Leaflet maps from python: [folium](https://python-visualization.github.io/folium/)
 - Debugging: [PySnooper](https://github.com/cool-RR/PySnooper)
-- Pickling extended: [cloudpickle](https://github.com/cloudpipe/cloudpickle)
