@@ -61,6 +61,7 @@ Curated libraries for a faster workflow
 - Genetic Programming: [gplearn](https://gplearn.readthedocs.io/en/stable/index.html)
 - Active Learning: [modal](https://github.com/modAL-python/modAL)
 - Rule based classifier: [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
+- Probabilistic modeling: [pomegranate](https://github.com/jmschrei/pomegranate)
 
 ## NLP
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
