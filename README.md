@@ -52,9 +52,6 @@ Curated libraries for a faster workflow
 
 # Phase: Modeling
 
-## Graph Embedding and Community Detection
-- Graph Embedding and Community Detection: [karateclub](https://github.com/benedekrozemberczki/karateclub)
-
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [auto-sklearn](https://automl.github.io/auto-sklearn), [tpot](https://github.com/EpistasisLab/tpot)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
@@ -66,6 +63,8 @@ Curated libraries for a faster workflow
 - Active Learning: [modal](https://github.com/modAL-python/modAL)
 - Rule based classifier: [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 - Probabilistic modeling: [pomegranate](https://github.com/jmschrei/pomegranate)
+- Graph Embedding and Community Detection: [karateclub](https://github.com/benedekrozemberczki/karateclub)
+
 
 ## NLP
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
