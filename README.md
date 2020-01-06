@@ -51,6 +51,10 @@ Curated libraries for a faster workflow
 - List of holidays: [python-holidays](https://github.com/dr-prodigy/python-holidays)
 
 # Phase: Modeling
+
+## Graph Embedding and Community Detection
+- Graph Embedding and Community Detection: [karateclub](https://github.com/benedekrozemberczki/karateclub)
+
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [auto-sklearn](https://automl.github.io/auto-sklearn), [tpot](https://github.com/EpistasisLab/tpot)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
