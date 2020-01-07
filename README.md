@@ -58,7 +58,7 @@ Curated libraries for a faster workflow
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
 - Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota)
 - Find SOTA models: [sotawhat](https://sotawhat.herokuapp.com)
-- Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html) [LightGBM (GPU-capable)](https://github.com/Microsoft/LightGBM), [thunderbm (GPU-capable)](https://github.com/Xtra-Computing/thundergbm)
+- Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html), [lightgbm (GPU-capable)](https://github.com/Microsoft/LightGBM), [thunderbm (GPU-capable)](https://github.com/Xtra-Computing/thundergbm)
 - Hidden Markov Models: [hmmlearn](https://github.com/hmmlearn/hmmlearn)
 - Genetic Programming: [gplearn](https://gplearn.readthedocs.io/en/stable/index.html)
 - Active Learning: [modal](https://github.com/modAL-python/modAL)
