@@ -50,12 +50,14 @@ Curated libraries for a faster workflow
 - Automatic feature engineering: [featuretools](https://github.com/FeatureLabs/featuretools), [autopandas](https://autopandas.io/), [tsfresh (automatic feature engineering for time series)](https://github.com/blue-yonder/tsfresh)
 - Custom distance metric learning: [metric-learn](http://contrib.scikit-learn.org/metric-learn/getting_started.html)
 - List of holidays: [python-holidays](https://github.com/dr-prodigy/python-holidays)
+- DAG based dataset generation: [DFFML](https://intel.github.io/dffml/usage/integration.html)
 
 # Phase: Modeling
 
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [auto-sklearn](https://automl.github.io/auto-sklearn), [tpot](https://github.com/EpistasisLab/tpot)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
+- ML from command line (or Python or HTTP): [DFFML](https://intel.github.io/dffml/)
 - Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota)
 - Find SOTA models: [sotawhat](https://sotawhat.herokuapp.com)
 - Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html), [lightgbm (GPU-capable)](https://github.com/Microsoft/LightGBM), [thunderbm (GPU-capable)](https://github.com/Xtra-Computing/thundergbm)
