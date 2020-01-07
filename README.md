@@ -64,6 +64,7 @@ Curated libraries for a faster workflow
 - Rule based classifier: [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 - Probabilistic modeling: [pomegranate](https://github.com/jmschrei/pomegranate)
 - Graph Embedding and Community Detection: [karateclub](https://github.com/benedekrozemberczki/karateclub)
+- Anomaly detection: [adtk](https://arundo-adtk.readthedocs-hosted.com/en/stable/install.html)
 
 
 ## NLP
