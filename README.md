@@ -105,6 +105,7 @@ Curated libraries for a faster workflow
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn)
 - Scikit-learn like API: [surprise](https://github.com/NicolasHug/Surprise)
+- Recommendation System in Pytorch: [CaseRecommender](https://github.com/caserec/CaseRecommender)
 
 ## Computer Vision
 - Image processing: [scikit-image](https://github.com/scikit-image/scikit-image), [imutils](https://github.com/jrosebr1/imutils)
