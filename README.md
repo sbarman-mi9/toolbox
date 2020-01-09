@@ -72,6 +72,7 @@ Curated libraries for a faster workflow
 - Anomaly detection: [adtk](https://arundo-adtk.readthedocs-hosted.com/en/stable/install.html)
 
 ## NLP
+- NLP Toolkit (Stemming, Lemmatization, Dependency Parsing, Tokenization) : [spaCy](https://spacy.io/) , [NLTK](https://github.com/nltk/nltk), [coreNLP](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html)
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
 - Text Extraction from Image, Audio, PDF: [textract](https://textract.readthedocs.io/en/stable/)
 - Text generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn), [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)
@@ -102,7 +103,6 @@ Curated libraries for a faster workflow
 - wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 - String Matching : [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) 
 - Named Entity Recognition(NER) : [spaCy](https://spacy.io/) , [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml)
-- NLP Toolkit (Stemming, Lemmatization, Dependency Parsing, Tokenization) : [spaCy](https://spacy.io/) , [NLTK](https://github.com/nltk/nltk), [coreNLP](https://stanfordnlp.github.io/CoreNLP/)
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
