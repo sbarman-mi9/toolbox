@@ -177,6 +177,7 @@ Curated libraries for a faster workflow
 - Caching: [cachetools](https://pypi.org/project/cachetools/), [cachew (cache to local sqlite)](https://github.com/karlicoss/cachew)
 - Authentication: [pyjwt (JWT)](https://github.com/jpadilla/pyjwt)
 - Task Queue: [rq](https://github.com/rq/rq)
+- Database: [flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy)
 
 ## Dashboard
 - Generate frontend with python: [streamlit](https://github.com/streamlit/streamlit)
