@@ -98,6 +98,8 @@ Curated libraries for a faster workflow
 - PID removal: [scrubadub](https://scrubadub.readthedocs.io/en/stable/#)
 - Profanity detection: [profanity-check](https://github.com/vzhou842/profanity-check)
 - wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
+- String Matching : [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) 
+- Named Entity Recognition(NER) : [spaCy](https://spacy.io/) , [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml)
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
