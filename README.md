@@ -4,12 +4,12 @@ Curated libraries for a faster workflow
 # Phase: Data
 ## Data Annotation
 - Image: [makesense.ai](https://www.makesense.ai/) 
-- Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/)
+- Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/), [dataturks](https://dataturks.com/)
 
 ## Datasets
 - Text: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words)](https://github.com/dwyl/english-words), [10K most common words](https://github.com/first20hours/google-10000-english)
 - Image: [1 million fake faces](https://archive.org/details/1mFakeFaces)
-- Dataset search engine: [datasetlist](https://www.datasetlist.com/), [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php)
+- Dataset search engine: [datasetlist](https://www.datasetlist.com/), [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php), [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 
 ## Importing Data
 - Audio: [pydub](https://github.com/jiaaro/pydub)
