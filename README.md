@@ -36,6 +36,7 @@ Curated libraries for a faster workflow
 - Split images into train/validation/test: [split-folders](https://github.com/jfilter/split-folders)
 - Class Imbalance: [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html)
 - Categorical encoding: [category_encoders](https://contrib.scikit-learn.org/categorical-encoding/index.html)
+- Numerical data: [numerizer (convert natural language numerics into ints and floats)](https://github.com/jaidevd/numerizer)
 
 ## Notebook Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
