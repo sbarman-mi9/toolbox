@@ -71,7 +71,6 @@ Curated libraries for a faster workflow
 - Graph Embedding and Community Detection: [karateclub](https://github.com/benedekrozemberczki/karateclub)
 - Anomaly detection: [adtk](https://arundo-adtk.readthedocs-hosted.com/en/stable/install.html)
 
-
 ## NLP
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
 - Text Extraction from Image, Audio, PDF: [textract](https://textract.readthedocs.io/en/stable/)
@@ -128,7 +127,7 @@ Curated libraries for a faster workflow
 - Scikit-learn like API: [sktime](https://github.com/alan-turing-institute/sktime)
 
 ## Framework extensions
-- Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary), [skorch (wrap pytorch in scikit-learn compatible API)](https://github.com/skorch-dev/skorch)
+- Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary), [skorch (wrap pytorch in scikit-learn compatible API)](https://github.com/skorch-dev/skorch), [catalyst](https://github.com/catalyst-team/catalyst)
 - Einstein notation: [einops](https://github.com/arogozhnikov/einops)
 - Scikit-learn: [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html)
 
