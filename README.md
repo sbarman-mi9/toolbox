@@ -100,6 +100,7 @@ Curated libraries for a faster workflow
 - wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
 - String Matching : [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) 
 - Named Entity Recognition(NER) : [spaCy](https://spacy.io/) , [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml)
+- NLP Toolkit (Stemming, Lemmatization, Dependency Parsing, Tokenization) : [spaCy](https://spacy.io/) , [NLTK](https://github.com/nltk/nltk), [coreNLP](https://stanfordnlp.github.io/CoreNLP/)
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
