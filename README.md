@@ -23,6 +23,7 @@ Curated libraries for a faster workflow
 - Google drive: [gdown](https://github.com/wkentaro/gdown)
 - Python API for datasets: [pydataset](https://github.com/iamaziz/PyDataset)
 - Google maps location data: [geo-heatmap](https://github.com/luka1199/geo-heatmap)
+- Tex to Speech: [gtts](https://github.com/pndurette/gTTS)
 
 ## Data Augmentation
 - Text: [nlpaug](https://github.com/makcedward/nlpaug)
