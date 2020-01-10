@@ -70,6 +70,7 @@ Curated libraries for a faster workflow
 - Probabilistic modeling: [pomegranate](https://github.com/jmschrei/pomegranate)
 - Graph Embedding and Community Detection: [karateclub](https://github.com/benedekrozemberczki/karateclub)
 - Anomaly detection: [adtk](https://arundo-adtk.readthedocs-hosted.com/en/stable/install.html)
+- Spiking Neural Network: [norse](https://github.com/norse/norse)
 
 ## NLP
 - NLP Toolkit (Stemming, Lemmatization, Dependency Parsing, Tokenization) : [spaCy](https://spacy.io/) , [NLTK](https://github.com/nltk/nltk), [coreNLP](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html)
