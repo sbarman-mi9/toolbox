@@ -163,7 +163,8 @@ Curated libraries for a faster workflow
 - Generate graphs using markdown: [mermaid](https://mermaid-js.github.io/mermaid/#/README)
 - Visualize topics models: [pyldavis](https://pyldavis.readthedocs.io/en/latest/)
 - High dimensional visualization: [umap](https://github.com/lmcinnes/umap)
-- Visualization libraries: [pygal](http://www.pygal.org/en/latest/index.html)
+- Visualization libraries: [pygal](http://www.pygal.org/en/latest/index.html), [plotly](https://github.com/plotly/plotly.py), [plotnine](https://github.com/has2k1/plotnine)
+- Interactive charts: [bokeh](https://github.com/bokeh/bokeh)
 
 # Phase: Production
 ## Model Serialization
