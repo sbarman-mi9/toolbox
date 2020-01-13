@@ -187,6 +187,7 @@ Curated libraries for a faster workflow
 - Authentication: [pyjwt (JWT)](https://github.com/jpadilla/pyjwt)
 - Task Queue: [rq](https://github.com/rq/rq)
 - Database: [flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy)
+- Logging: [loguru](https://github.com/Delgan/loguru)
 
 ## Dashboard
 - Generate frontend with python: [streamlit](https://github.com/streamlit/streamlit)
@@ -203,3 +204,4 @@ Curated libraries for a faster workflow
 - Pretty print tables in CLI: [tabulate](https://pypi.org/project/tabulate/)
 - Leaflet maps from python: [folium](https://python-visualization.github.io/folium/)
 - Debugging: [PySnooper](https://github.com/cool-RR/PySnooper)
+- Date and Time: [pendulum](https://github.com/sdispater/pendulum)
