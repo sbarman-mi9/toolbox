@@ -24,6 +24,7 @@ Curated libraries for a faster workflow
 - Python API for datasets: [pydataset](https://github.com/iamaziz/PyDataset)
 - Google maps location data: [geo-heatmap](https://github.com/luka1199/geo-heatmap)
 - Tex to Speech: [gtts](https://github.com/pndurette/gTTS)
+- Databases: [blaze (pandas and numpy interface to databases)](https://github.com/blaze/blaze)
 
 ## Data Augmentation
 - Text: [nlpaug](https://github.com/makcedward/nlpaug)
