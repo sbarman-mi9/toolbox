@@ -165,6 +165,7 @@ Curated libraries for a faster workflow
 - High dimensional visualization: [umap](https://github.com/lmcinnes/umap)
 - Visualization libraries: [pygal](http://www.pygal.org/en/latest/index.html), [plotly](https://github.com/plotly/plotly.py), [plotnine](https://github.com/has2k1/plotnine)
 - Interactive charts: [bokeh](https://github.com/bokeh/bokeh)
+- Visualize architectures: [netron](https://github.com/lutzroeder/netron)
 
 # Phase: Production
 ## Model Serialization
