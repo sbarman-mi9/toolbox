@@ -131,6 +131,7 @@ Curated libraries for a faster workflow
 ## Timeseries
 - Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
 - Scikit-learn like API: [sktime](https://github.com/alan-turing-institute/sktime)
+- ARIMA models: [pmdarima](https://github.com/alkaline-ml/pmdarima)
 
 ## Framework extensions
 - Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary), [skorch (wrap pytorch in scikit-learn compatible API)](https://github.com/skorch-dev/skorch), [catalyst](https://github.com/catalyst-team/catalyst)
