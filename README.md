@@ -72,6 +72,7 @@ Curated libraries for a faster workflow
 - Graph Embedding and Community Detection: [karateclub](https://github.com/benedekrozemberczki/karateclub)
 - Anomaly detection: [adtk](https://arundo-adtk.readthedocs-hosted.com/en/stable/install.html)
 - Spiking Neural Network: [norse](https://github.com/norse/norse)
+- Fuzzy Learning: [fylearn](https://github.com/sorend/fylearn), [scikit-fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy)
 
 ## NLP
 - NLP Toolkit (Stemming, Lemmatization, Dependency Parsing, Tokenization) : [spaCy](https://spacy.io/) , [NLTK](https://github.com/nltk/nltk), [coreNLP](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html)
