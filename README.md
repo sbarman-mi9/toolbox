@@ -39,6 +39,7 @@ Curated libraries for a faster workflow
 - Class Imbalance: [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html)
 - Categorical encoding: [category_encoders](https://contrib.scikit-learn.org/categorical-encoding/index.html)
 - Numerical data: [numerizer (convert natural language numerics into ints and floats)](https://github.com/jaidevd/numerizer)
+- Data Validation: [pandera (validation for pandas)](https://github.com/pandera-dev/pandera)
 
 ## Notebook Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
