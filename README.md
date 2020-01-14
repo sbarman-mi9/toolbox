@@ -148,7 +148,7 @@ Curated libraries for a faster workflow
 ## Hyperparameter Optimization
 - Keras: [keras-tuner](https://github.com/keras-team/keras-tuner)
 - Scikit-learn: [sklearn-deap (evolutionary algorithm for hyperparameter search)](https://github.com/rsteca/sklearn-deap), [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn)
-- General: [hyperopt](https://github.com/hyperopt/hyperopt)
+- General: [hyperopt](https://github.com/hyperopt/hyperopt), [optuna](https://optuna.org/)
 
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
