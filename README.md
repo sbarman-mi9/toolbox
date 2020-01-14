@@ -137,6 +137,7 @@ Curated libraries for a faster workflow
 - Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary), [skorch (wrap pytorch in scikit-learn compatible API)](https://github.com/skorch-dev/skorch), [catalyst](https://github.com/catalyst-team/catalyst)
 - Einstein notation: [einops](https://github.com/arogozhnikov/einops)
 - Scikit-learn: [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html)
+- Keras: [keras-radam](https://github.com/CyberZHG/keras-radam)
 
 # Phase: Monitoring
 ## Model Training Monitoring
