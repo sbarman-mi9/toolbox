@@ -41,6 +41,7 @@ Curated libraries for a faster workflow
 - Numerical data: [numerizer (convert natural language numerics into ints and floats)](https://github.com/jaidevd/numerizer)
 - Data Validation: [pandera (validation for pandas)](https://github.com/pandera-dev/pandera)
 - Data Cleaning: [pyjanitor (janitor ported to python)](https://github.com/ericmjl/pyjanitor)
+- Parsing: [pyparsing](https://pyparsing-docs.readthedocs.io/en/latest/index.html)
 
 ## Notebook Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
