@@ -107,7 +107,7 @@ Curated libraries for a faster workflow
 - Text distances: [textdistance](https://github.com/life4/textdistance), [editdistance](https://github.com/aflc/editdistance)
 - PID removal: [scrubadub](https://scrubadub.readthedocs.io/en/stable/#)
 - Profanity detection: [profanity-check](https://github.com/vzhou842/profanity-check)
-- wordclouds: [stylecloud](https://github.com/minimaxir/stylecloud)
+- Visualization: [stylecloud (wordclouds)](https://github.com/minimaxir/stylecloud), [scattertext](https://github.com/JasonKessler/scattertext)
 - String Matching : [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) 
 - Named Entity Recognition(NER) : [spaCy](https://spacy.io/) , [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml)
 
