@@ -42,6 +42,7 @@ Curated libraries for a faster workflow
 - Data Validation: [pandera (validation for pandas)](https://github.com/pandera-dev/pandera)
 - Data Cleaning: [pyjanitor (janitor ported to python)](https://github.com/ericmjl/pyjanitor)
 - Parsing: [pyparsing](https://pyparsing-docs.readthedocs.io/en/latest/index.html)
+- Natural date parser: [dateparser](https://github.com/scrapinghub/dateparser)
 
 ## Notebook Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
