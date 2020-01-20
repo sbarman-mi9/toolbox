@@ -43,6 +43,8 @@ Curated libraries for a faster workflow
 - Data Cleaning: [pyjanitor (janitor ported to python)](https://github.com/ericmjl/pyjanitor)
 - Parsing: [pyparsing](https://pyparsing-docs.readthedocs.io/en/latest/index.html)
 - Natural date parser: [dateparser](https://github.com/scrapinghub/dateparser)
+- Unicode: [text-unidecode](https://pypi.org/project/text-unidecode/)
+- Emoji: [emoji](https://pypi.org/project/emoji/)
 
 ## Notebook Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
