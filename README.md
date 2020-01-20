@@ -212,3 +212,4 @@ Curated libraries for a faster workflow
 - Leaflet maps from python: [folium](https://python-visualization.github.io/folium/)
 - Debugging: [PySnooper](https://github.com/cool-RR/PySnooper)
 - Date and Time: [pendulum](https://github.com/sdispater/pendulum)
+- Create interactive prompts: [prompt-toolkit](https://pypi.org/project/prompt-toolkit/)
