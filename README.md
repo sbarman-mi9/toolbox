@@ -41,10 +41,14 @@ Curated libraries for a faster workflow
 - Numerical data: [numerizer (convert natural language numerics into ints and floats)](https://github.com/jaidevd/numerizer)
 - Data Validation: [pandera (validation for pandas)](https://github.com/pandera-dev/pandera)
 - Data Cleaning: [pyjanitor (janitor ported to python)](https://github.com/ericmjl/pyjanitor)
+- Data Transformation: [bamboolib (a GUI for pandas)](https://bamboolib.8080labs.com/)
 - Parsing: [pyparsing](https://pyparsing-docs.readthedocs.io/en/latest/index.html)
 - Natural date parser: [dateparser](https://github.com/scrapinghub/dateparser)
 - Unicode: [text-unidecode](https://pypi.org/project/text-unidecode/)
 - Emoji: [emoji](https://pypi.org/project/emoji/)
+
+## Data Exploration
+- Data Exploration: [bamboolib (a GUI for pandas)](https://bamboolib.8080labs.com/)
 
 ## Notebook Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
