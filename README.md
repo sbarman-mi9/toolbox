@@ -13,7 +13,7 @@ Curated libraries for a faster workflow
 
 ## Importing Data
 - Audio: [pydub](https://github.com/jiaaro/pydub)
-- Video: [pytube (download youTube vidoes)](https://github.com/nficano/pytube)
+- Video: [pytube (download youtube vidoes)](https://github.com/nficano/pytube), [moviepy](https://zulko.github.io/moviepy/)
 - Image: [py-image-dataset-generator (auto fetch images from web for certain search)](https://github.com/tomahim/py-image-dataset-generator)
 - News: [news-please](https://github.com/fhamborg/news-please)
 - PDF: [camelot](https://camelot-py.readthedocs.io/en/master/), [tabula-py](https://github.com/chezou/tabula-py), [Parsr](https://github.com/axa-group/Parsr)
