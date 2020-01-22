@@ -65,7 +65,7 @@ Curated libraries for a faster workflow
 
 ## Model Selection
 - Bruteforce through all scikit-learn model and parameters: [auto-sklearn](https://automl.github.io/auto-sklearn), [tpot](https://github.com/EpistasisLab/tpot)
-- Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb)
+- Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb), [autocat (auto-generate text classification models in spacy)](https://autocat.apps.allenai.org/)
 - ML from command line (or Python or HTTP): [DFFML](https://intel.github.io/dffml/)
 - Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota), [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch)
 - Find SOTA models: [sotawhat](https://sotawhat.herokuapp.com)
