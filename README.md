@@ -173,6 +173,7 @@ Curated libraries for a faster workflow
 - Visualization libraries: [pygal](http://www.pygal.org/en/latest/index.html), [plotly](https://github.com/plotly/plotly.py), [plotnine](https://github.com/has2k1/plotnine)
 - Interactive charts: [bokeh](https://github.com/bokeh/bokeh)
 - Visualize architectures: [netron](https://github.com/lutzroeder/netron)
+- Activation maps for keras: [keract](https://github.com/philipperemy/keract)
 
 # Phase: Production
 ## Model Serialization
