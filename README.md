@@ -175,6 +175,7 @@ Curated libraries for a faster workflow
 - Interactive charts: [bokeh](https://github.com/bokeh/bokeh)
 - Visualize architectures: [netron](https://github.com/lutzroeder/netron)
 - Activation maps for keras: [keract](https://github.com/philipperemy/keract)
+- Create interactive charts online: [flourish-studio](https://flourish.studio/)
 
 # Phase: Production
 ## Model Serialization
