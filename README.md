@@ -17,6 +17,7 @@ Curated libraries for a faster workflow
 - Image: [py-image-dataset-generator (auto fetch images from web for certain search)](https://github.com/tomahim/py-image-dataset-generator)
 - News: [news-please](https://github.com/fhamborg/news-please)
 - PDF: [camelot](https://camelot-py.readthedocs.io/en/master/), [tabula-py](https://github.com/chezou/tabula-py), [Parsr](https://github.com/axa-group/Parsr), [pdftotext](https://pypi.org/project/pdftotext/)
+- Excel: [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 - Remote file: [smart_open](https://github.com/RaRe-Technologies/smart_open)
 - Crawling: [pyppeteer (chrome automation)](https://github.com/miyakogi/pyppeteer), [MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup), [libextract](https://github.com/datalib/libextract)
 - Google sheets: [gspread](https://github.com/burnash/gspread)
