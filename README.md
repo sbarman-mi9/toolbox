@@ -118,6 +118,7 @@ Curated libraries for a faster workflow
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
+- Diarization: [resemblyzer](https://github.com/resemble-ai/Resemblyzer)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn), [DeepCTR](https://github.com/shenweichen/DeepCTR)
