@@ -46,6 +46,7 @@ Curated libraries for a faster workflow
 - Natural date parser: [dateparser](https://github.com/scrapinghub/dateparser)
 - Unicode: [text-unidecode](https://pypi.org/project/text-unidecode/)
 - Emoji: [emoji](https://pypi.org/project/emoji/)
+- Weak Supervision: [snorkel](https://www.snorkel.org/get-started/)
 
 ## Notebook Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
