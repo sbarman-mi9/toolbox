@@ -115,6 +115,7 @@ Curated libraries for a faster workflow
 - Visualization: [stylecloud (wordclouds)](https://github.com/minimaxir/stylecloud), [scattertext](https://github.com/JasonKessler/scattertext)
 - String Matching : [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) 
 - Named Entity Recognition(NER) : [spaCy](https://spacy.io/) , [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml)
+- Fill blanks: [fitbert](https://github.com/Qordobacode/fitbert)
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
