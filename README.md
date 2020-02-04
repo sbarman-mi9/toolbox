@@ -4,7 +4,7 @@ Curated libraries for a faster workflow
 # Phase: Data
 ## Data Annotation
 - Image: [makesense.ai](https://www.makesense.ai/) 
-- Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/), [dataturks](https://dataturks.com/)
+- Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/), [dataturks](https://dataturks.com/), [brat](http://brat.nlplab.org/)
 
 ## Datasets
 - Text: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words)](https://github.com/dwyl/english-words), [10K most common words](https://github.com/first20hours/google-10000-english), [1 trillion n-grams](https://catalog.ldc.upenn.edu/LDC2006T13), [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
