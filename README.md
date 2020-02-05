@@ -117,6 +117,7 @@ Curated libraries for a faster workflow
 - String Matching : [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) 
 - Named Entity Recognition(NER) : [spaCy](https://spacy.io/) , [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml), [sklearn-crfsuite](https://sklearn-crfsuite.readthedocs.io/en/latest/index.html)
 - Fill blanks: [fitbert](https://github.com/Qordobacode/fitbert)
+- Dictionary: [vocabulary](https://vocabulary.readthedocs.io/en/latest/usage.html)
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
