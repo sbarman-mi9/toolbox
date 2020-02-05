@@ -181,6 +181,7 @@ Curated libraries for a faster workflow
 - Visualize architectures: [netron](https://github.com/lutzroeder/netron)
 - Activation maps for keras: [keract](https://github.com/philipperemy/keract)
 - Create interactive charts online: [flourish-studio](https://flourish.studio/)
+- Color Schemes: [open-color](https://yeun.github.io/open-color/)
 
 # Phase: Production
 ## Model Serialization
