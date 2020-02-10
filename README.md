@@ -168,7 +168,7 @@ Curated libraries for a faster workflow
 ## Hyperparameter Optimization
 - Keras: [keras-tuner](https://github.com/keras-team/keras-tuner)
 - Scikit-learn: [sklearn-deap (evolutionary algorithm for hyperparameter search)](https://github.com/rsteca/sklearn-deap), [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn)
-- General: [hyperopt](https://github.com/hyperopt/hyperopt), [optuna](https://optuna.org/), [evol](https://github.com/godatadriven/evol)
+- General: [hyperopt](https://github.com/hyperopt/hyperopt), [optuna](https://optuna.org/), [evol](https://github.com/godatadriven/evol), [talos](https://github.com/autonomio/talos)
 
 ## Visualization
 - Draw CNN figures: [nn-svg](http://alexlenail.me/NN-SVG/LeNet.html)
