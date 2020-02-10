@@ -48,13 +48,14 @@ Curated libraries for a faster workflow
 - Emoji: [emoji](https://pypi.org/project/emoji/)
 - Weak Supervision: [snorkel](https://www.snorkel.org/get-started/)
 
-## Notebook Exploration
+## Data Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
 - Parametrize notebooks: [papermill](https://github.com/nteract/papermill)
 - Access notebooks programatically: [nbformat](https://nbformat.readthedocs.io/en/latest/api.html)
 - Convert notebooks to other formats: [nbconvert](https://nbconvert.readthedocs.io/en/latest/)
 - Extra utilities not present in frameworks: [mlxtend](https://github.com/rasbt/mlxtend)
 - Maps in notebooks: [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet)
+- Data Exploration: [bamboolib (a GUI for pandas)](https://bamboolib.8080labs.com/)
 
 # Phase: Feature Engineering
 ## Feature Generation
