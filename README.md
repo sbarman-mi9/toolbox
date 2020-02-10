@@ -60,7 +60,7 @@ Curated libraries for a faster workflow
 # Phase: Feature Engineering
 ## Feature Generation
 - Automatic feature engineering: [featuretools](https://github.com/FeatureLabs/featuretools), [autopandas](https://autopandas.io/), [tsfresh (automatic feature engineering for time series)](https://github.com/blue-yonder/tsfresh)
-- Custom distance metric learning: [metric-learn](http://contrib.scikit-learn.org/metric-learn/getting_started.html)
+- Custom distance metric learning: [metric-learn](http://contrib.scikit-learn.org/metric-learn/getting_started.html), [pytorch-metric-learning](https://github.com/KevinMusgrave/pytorch-metric-learning)
 - Time series: [python-holidays](https://github.com/dr-prodigy/python-holidays), [skits](https://github.com/ethanrosenthal/skits)
 - DAG based dataset generation: [DFFML](https://intel.github.io/dffml/usage/integration.html)
 
