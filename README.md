@@ -151,7 +151,7 @@ Curated libraries for a faster workflow
 - Pytorch: [Keras like summary for pytorch](https://github.com/sksq96/pytorch-summary), [skorch (wrap pytorch in scikit-learn compatible API)](https://github.com/skorch-dev/skorch), [catalyst](https://github.com/catalyst-team/catalyst)
 - Einstein notation: [einops](https://github.com/arogozhnikov/einops)
 - Scikit-learn: [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html)
-- Keras: [keras-radam](https://github.com/CyberZHG/keras-radam), [larq (binarized neural networks)](https://github.com/larq/larq), [ktrain (fastai like interface for keras)](https://pypi.org/project/ktrain/), [tavolo (useful techniques from kaggle as utilities)](https://github.com/eliorc/tavolo), [tensorboardcolab (make tensorfboard work in colab)](https://github.com/taomanwai/tensorboardcolab)
+- Keras: [keras-radam](https://github.com/CyberZHG/keras-radam), [larq (binarized neural networks)](https://github.com/larq/larq), [ktrain (fastai like interface for keras)](https://pypi.org/project/ktrain/), [tavolo (useful techniques from kaggle as utilities)](https://github.com/eliorc/tavolo), [tensorboardcolab (make tensorfboard work in colab)](https://github.com/taomanwai/tensorboardcolab), [tf-sha-rnn](https://github.com/titu1994/tf-sha-rnn)
 
 # Phase: Validation
 ## Model Training Monitoring
