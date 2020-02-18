@@ -31,6 +31,7 @@ Curated libraries for a faster workflow
 - Text: [nlpaug](https://github.com/makcedward/nlpaug)
 - Image: [imgaug](https://github.com/aleju/imgaug/), [albumentations](https://github.com/albumentations-team/albumentations), [augmentor](https://github.com/mdbloice/Augmentor)
 - Audio: [audiomentations](https://github.com/iver56/audiomentations), [muda](https://github.com/bmcfee/muda)
+- OCR data: [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
 
 # Phase: Exploration
 
