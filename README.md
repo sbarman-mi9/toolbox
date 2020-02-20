@@ -28,7 +28,7 @@ Curated libraries for a faster workflow
 - Databases: [blaze (pandas and numpy interface to databases)](https://github.com/blaze/blaze)
 
 ## Data Augmentation
-- Text: [nlpaug](https://github.com/makcedward/nlpaug)
+- Text: [nlpaug](https://github.com/makcedward/nlpaug), [noisemix](https://github.com/noisemix/noisemix)
 - Image: [imgaug](https://github.com/aleju/imgaug/), [albumentations](https://github.com/albumentations-team/albumentations), [augmentor](https://github.com/mdbloice/Augmentor)
 - Audio: [audiomentations](https://github.com/iver56/audiomentations), [muda](https://github.com/bmcfee/muda)
 - OCR data: [TextRecognitionDataGenerator](https://github.com/Belval/TextRecognitionDataGenerator)
