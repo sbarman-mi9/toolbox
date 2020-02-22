@@ -88,7 +88,7 @@ Curated libraries for a faster workflow
 - Noisy Label Learning: [cleanlab](https://github.com/cgnorthcutt/cleanlab)
 
 ## NLP
-- NLP Toolkit (Stemming, Lemmatization, Dependency Parsing, Tokenization) : [spaCy](https://spacy.io/) , [NLTK](https://github.com/nltk/nltk), [coreNLP](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html), [kashgari](https://kashgari.bmio.net/), [camphr (spacy plugin for transformers, elmo, udify)](https://github.com/PKSHATechnology-Research/camphr/)
+- Libraries: [spacy](https://spacy.io/) , [nltk](https://github.com/nltk/nltk), [corenlp](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html), [kashgari](https://kashgari.bmio.net/), [camphr (spacy plugin for transformers, elmo, udify)](https://github.com/PKSHATechnology-Research/camphr/), [transformers](https://github.com/huggingface/transformers), [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers)
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
 - Text Extraction from Image, Audio, PDF: [textract](https://textract.readthedocs.io/en/stable/)
 - Text generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn), [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)
