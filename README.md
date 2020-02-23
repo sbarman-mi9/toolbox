@@ -118,7 +118,7 @@ Curated libraries for a faster workflow
 - PID removal: [scrubadub](https://scrubadub.readthedocs.io/en/stable/#)
 - Profanity detection: [profanity-check](https://github.com/vzhou842/profanity-check)
 - Visualization: [stylecloud (wordclouds)](https://github.com/minimaxir/stylecloud), [scattertext](https://github.com/JasonKessler/scattertext)
-- String Matching : [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) 
+- Fuzzy Search : [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) 
 - Named Entity Recognition(NER) : [spaCy](https://spacy.io/) , [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml), [sklearn-crfsuite](https://sklearn-crfsuite.readthedocs.io/en/latest/index.html)
 - Fill blanks: [fitbert](https://github.com/Qordobacode/fitbert)
 - Dictionary: [vocabulary](https://vocabulary.readthedocs.io/en/latest/usage.html)
