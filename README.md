@@ -123,6 +123,7 @@ Curated libraries for a faster workflow
 - Fill blanks: [fitbert](https://github.com/Qordobacode/fitbert)
 - Dictionary: [vocabulary](https://vocabulary.readthedocs.io/en/latest/usage.html)
 - Nearest neighbor: [faiss](https://github.com/facebookresearch/faiss)
+- Sentence Segmentation: [nnsplit](https://github.com/bminixhofer/nnsplit)
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
