@@ -46,7 +46,7 @@ Curated libraries for a faster workflow
 - Numerical data: [numerizer (convert natural language numerics into ints and floats)](https://github.com/jaidevd/numerizer)
 - Data Validation: [pandera (validation for pandas)](https://github.com/pandera-dev/pandera)
 - Data Cleaning: [pyjanitor (janitor ported to python)](https://github.com/ericmjl/pyjanitor)
-- Parsing: [pyparsing](https://pyparsing-docs.readthedocs.io/en/latest/index.html)
+- Parsing: [pyparsing](https://pyparsing-docs.readthedocs.io/en/latest/index.html), [parse](https://pypi.org/project/parse/)
 - Natural date parser: [dateparser](https://github.com/scrapinghub/dateparser)
 - Unicode: [text-unidecode](https://pypi.org/project/text-unidecode/)
 - Emoji: [emoji](https://pypi.org/project/emoji/)
