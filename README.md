@@ -100,7 +100,7 @@ Curated libraries for a faster workflow
 - Summarization: [textrank](https://github.com/summanlp/textrank), [pytldr](https://github.com/jaijuneja/PyTLDR), [bert-extractive-summarizer](https://github.com/dmmiller612/bert-extractive-summarizer)
 - Spelling Correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell), [hunspell-dictionaries](https://github.com/wooorm/dictionaries), [autocorrect (can add more languages)](https://github.com/phatpiglet/autocorrect)
 - Contraction Mapping: [contractions](https://github.com/kootenpv/contractions)
-- Keyword extraction: [rake](https://github.com/zelandiya/RAKE-tutorial), [pke](https://github.com/boudinfl/pke)
+- Keyword extraction: [rake](https://github.com/zelandiya/RAKE-tutorial), [pke](https://github.com/boudinfl/pke), [phrasemachine](https://github.com/slanglab/phrasemachine)
 - Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
 - Sequence to sequence models: [headliner](https://github.com/as-ideas/headliner)
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
