@@ -161,6 +161,7 @@ Curated libraries for a faster workflow
 - Einstein notation: [einops](https://github.com/arogozhnikov/einops)
 - Scikit-learn: [scikit-lego](https://scikit-lego.readthedocs.io/en/latest/index.html), [iterstrat (cross-validation for multi-label data)](https://github.com/trent-b/iterative-stratification)
 - Keras: [keras-radam](https://github.com/CyberZHG/keras-radam), [larq (binarized neural networks)](https://github.com/larq/larq), [ktrain (fastai like interface for keras)](https://pypi.org/project/ktrain/), [tavolo (useful techniques from kaggle as utilities)](https://github.com/eliorc/tavolo), [tensorboardcolab (make tensorfboard work in colab)](https://github.com/taomanwai/tensorboardcolab), [tf-sha-rnn](https://github.com/titu1994/tf-sha-rnn)
+- Tensorflow: [tensorflow-addons](https://github.com/tensorflow/addons)
 
 # Phase: Validation
 ## Model Training Monitoring
