@@ -236,3 +236,4 @@ Curated libraries for a faster workflow
 - Create interactive prompts: [prompt-toolkit](https://pypi.org/project/prompt-toolkit/)
 - Concurrent database: [pickleshare](https://pypi.org/project/pickleshare/)
 - Aync: [tomorrow](https://github.com/madisonmay/Tomorrow)
+- Testing: [crosshair(find failure cases for functions)](https://github.com/pschanely/CrossHair)
