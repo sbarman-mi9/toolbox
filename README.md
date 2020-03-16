@@ -125,7 +125,7 @@ Curated libraries for a faster workflow
 - Profanity detection: [profanity-check](https://github.com/vzhou842/profanity-check)
 - Visualization: [stylecloud (wordclouds)](https://github.com/minimaxir/stylecloud), [scattertext](https://github.com/JasonKessler/scattertext)
 - Fuzzy Search : [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) 
-- Named Entity Recognition(NER) : [spaCy](https://spacy.io/) , [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml), [sklearn-crfsuite](https://sklearn-crfsuite.readthedocs.io/en/latest/index.html)
+- Named Entity Recognition(NER) : [spaCy](https://spacy.io/) , [Stanford NER](https://nlp.stanford.edu/software/CRF-NER.shtml), [sklearn-crfsuite](https://sklearn-crfsuite.readthedocs.io/en/latest/index.html), [med7(spacy NER for medical records)](https://github.com/kormilitzin/med7)
 - Fill blanks: [fitbert](https://github.com/Qordobacode/fitbert)
 - Dictionary: [vocabulary](https://vocabulary.readthedocs.io/en/latest/usage.html)
 - Nearest neighbor: [faiss](https://github.com/facebookresearch/faiss)
