@@ -130,6 +130,7 @@ Curated libraries for a faster workflow
 - Dictionary: [vocabulary](https://vocabulary.readthedocs.io/en/latest/usage.html)
 - Nearest neighbor: [faiss](https://github.com/facebookresearch/faiss)
 - Sentence Segmentation: [nnsplit](https://github.com/bminixhofer/nnsplit)
+- Knowledge Distillation: [textbrewer](https://github.com/airaria/TextBrewer)
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
