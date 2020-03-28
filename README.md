@@ -240,3 +240,4 @@ Curated libraries for a faster workflow
 - Concurrent database: [pickleshare](https://pypi.org/project/pickleshare/)
 - Aync: [tomorrow](https://github.com/madisonmay/Tomorrow)
 - Testing: [crosshair(find failure cases for functions)](https://github.com/pschanely/CrossHair)
+- CLI tools: [gitjk](https://github.com/mapmeld/gitjk): Undo what you just did in git
