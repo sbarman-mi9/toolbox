@@ -133,7 +133,7 @@ Curated libraries for a faster workflow
 - Knowledge Distillation: [textbrewer](https://github.com/airaria/TextBrewer)
 
 ## Speech Recognition
-- Library: [speech_recognition](https://github.com/Uberi/speech_recognition)
+- Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/)
 - Diarization: [resemblyzer](https://github.com/resemble-ai/Resemblyzer)
 
 ## RecSys
