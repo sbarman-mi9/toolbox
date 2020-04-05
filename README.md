@@ -147,6 +147,7 @@ Curated libraries for a faster workflow
 - Image processing: [scikit-image](https://github.com/scikit-image/scikit-image), [imutils](https://github.com/jrosebr1/imutils)
 - Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
 - Face recognition: [face_recognition](https://github.com/ageitgey/face_recognition), [face-alignment (find facial landmarks)](https://github.com/1adrianb/face-alignment)
+- GANS: [mimicry](https://mimicry.readthedocs.io/en/latest/index.html)
 - Face swapping: [faceit](https://github.com/goberoi/faceit)
 - Video summarization: [videodigest](https://github.com/agermanidis/videodigest)
 - Semantic search over videos: [scoper](https://github.com/RameshAditya/scoper)
