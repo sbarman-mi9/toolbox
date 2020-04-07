@@ -211,6 +211,7 @@ Curated libraries for a faster workflow
 
 ## Bechmark
 - Profile pytorch layers: [torchprof](https://github.com/awwong1/torchprof)
+- Load testing: [k6](https://k6.io/)
 
 ## API
 - Configuration Management: [config](https://pypi.org/project/config/), [python-decouple](https://github.com/henriquebastos/python-decouple)
