@@ -148,7 +148,7 @@ Curated libraries for a faster workflow
 - Segmentation Models in Keras: [segmentation_models](https://github.com/qubvel/segmentation_models)
 - Face recognition: [face_recognition](https://github.com/ageitgey/face_recognition), [face-alignment (find facial landmarks)](https://github.com/1adrianb/face-alignment)
 - GANS: [mimicry](https://mimicry.readthedocs.io/en/latest/index.html)
-- Face swapping: [faceit](https://github.com/goberoi/faceit)
+- Face swapping: [faceit](https://github.com/goberoi/faceit), [faceit-live](https://github.com/alew3/faceit_live)
 - Video summarization: [videodigest](https://github.com/agermanidis/videodigest)
 - Semantic search over videos: [scoper](https://github.com/RameshAditya/scoper)
 - OCR: [keras-ocr](https://github.com/faustomorales/keras-ocr), [pytesseract](https://github.com/madmaze/pytesseract)
