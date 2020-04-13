@@ -133,6 +133,7 @@ Curated libraries for a faster workflow
 - Nearest neighbor: [faiss](https://github.com/facebookresearch/faiss)
 - Sentence Segmentation: [nnsplit](https://github.com/bminixhofer/nnsplit)
 - Knowledge Distillation: [textbrewer](https://github.com/airaria/TextBrewer)
+- Sentence Coherence: [lm-scorer](https://github.com/simonepri/lm-scorer)
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/)
