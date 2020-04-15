@@ -134,6 +134,7 @@ Curated libraries for a faster workflow
 - Sentence Segmentation: [nnsplit](https://github.com/bminixhofer/nnsplit)
 - Knowledge Distillation: [textbrewer](https://github.com/airaria/TextBrewer)
 - Sentence Coherence: [lm-scorer](https://github.com/simonepri/lm-scorer)
+- Record Linking: [fuzzymatcher](https://github.com/RobinL/fuzzymatcher)
 
 ## Speech Recognition
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/)
