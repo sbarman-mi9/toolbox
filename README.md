@@ -100,7 +100,7 @@ Curated libraries for a faster workflow
 ## NLP
 - Libraries: [spacy](https://spacy.io/) , [nltk](https://github.com/nltk/nltk), [corenlp](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html), [kashgari](https://kashgari.bmio.net/), [camphr (spacy plugin for transformers, elmo, udify)](https://github.com/PKSHATechnology-Research/camphr/), [transformers](https://github.com/huggingface/transformers), [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers), [ernie](https://github.com/brunneis/ernie), [stanza](https://stanfordnlp.github.io/stanza/), [scispacy (spacy for medical documents)](https://github.com/allenai/scispacy)
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
-- Text Extractio: [textract (Image, Audio, PDF)](https://textract.readthedocs.io/en/stable/)
+- Text Extraction: [textract (Image, Audio, PDF)](https://textract.readthedocs.io/en/stable/)
 - Text Generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn), [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple)
 - Summarization: [textrank](https://github.com/summanlp/textrank), [pytldr](https://github.com/jaijuneja/PyTLDR), [bert-extractive-summarizer](https://github.com/dmmiller612/bert-extractive-summarizer)
 - Spelling Correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell), [hunspell-dictionaries](https://github.com/wooorm/dictionaries), [autocorrect (can add more languages)](https://github.com/phatpiglet/autocorrect), [symspellpy](https://github.com/mammothb/symspellpy)
@@ -111,6 +111,7 @@ Curated libraries for a faster workflow
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
 - Translation: [googletrans](https://pypi.org/project/googletrans/), [word2word](https://github.com/Kyubyong/word2word), [translate-python](https://github.com/terryyin/translate-python)
 - Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin), [sentence-transformers](https://github.com/UKPLab/sentence-transformers), [InferSent](https://github.com/facebookresearch/InferSent), [bert-as-service](https://github.com/hanxiao/bert-as-service), [sent2vec](https://github.com/NewKnowledge/nk-sent2vec), [sense2vec](https://github.com/explosion/sense2vec), [zeugma (pretrained-word embeddings as scikit-learn transformers)](https://github.com/nkthiebaut/zeugma), [BM25Transformer](https://github.com/arosh/BM25Transformer), [laserembeddings](https://pypi.org/project/laserembeddings/), [glove-python](https://github.com/maciejkula/glove-python)
+- Cross-lingual embeddings: [muse](https://github.com/facebookresearch/MUSE)
 - Multilingual support: [polyglot](https://polyglot.readthedocs.io/en/latest/index.html), [inltk (indic languages)](https://github.com/goru001/inltk), [indic_nlp](https://github.com/anoopkunchukuttan/indic_nlp_library)
 - NLU: [snips-nlu](https://github.com/snipsco/snips-nlu)
 - Semantic parsing: [quepy](https://github.com/machinalis/quepy)
