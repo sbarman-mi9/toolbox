@@ -94,6 +94,7 @@ Curated libraries for a faster workflow
 - Dimensionality reduction: [fbpca](https://github.com/facebook/fbpca)
 - Noisy Label Learning: [cleanlab](https://github.com/cgnorthcutt/cleanlab)
 - Few Shot Learning: [keras-fewshotlearning](https://github.com/ClementWalter/Keras-FewShotLearning)
+- Deep Clustering: [deep-clustering-toolbox](https://github.com/jizongFox/deep-clustering-toolbox)
 
 ## NLP
 - Libraries: [spacy](https://spacy.io/) , [nltk](https://github.com/nltk/nltk), [corenlp](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html), [kashgari](https://kashgari.bmio.net/), [camphr (spacy plugin for transformers, elmo, udify)](https://github.com/PKSHATechnology-Research/camphr/), [transformers](https://github.com/huggingface/transformers), [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers), [ernie](https://github.com/brunneis/ernie), [stanza](https://stanfordnlp.github.io/stanza/), [scispacy (spacy for medical documents)](https://github.com/allenai/scispacy)
