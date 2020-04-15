@@ -179,7 +179,7 @@ Curated libraries for a faster workflow
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
 - Interpret models: [eli5](https://eli5.readthedocs.io/en/latest/), [lime](https://github.com/marcotcr/lime), [shap](https://github.com/slundberg/shap), [alibi](https://github.com/SeldonIO/alibi), [tf-explain](https://github.com/sicara/tf-explain), [treeinterpreter](https://github.com/andosa/treeinterpreter), [pybreakdown](https://github.com/MI2DataLab/pyBreakDown), [xai](https://github.com/EthicalML/xai), [lofo-importance](https://github.com/aerdem4/lofo-importance)
 - Interpret BERT: [exbert](http://exbert.net/exBERT.html?sentence=I%20liked%20the%20music&layer=0&heads=..0,1,2,3,4,5,6,7,8,9,10,11&threshold=0.7&tokenInd=null&tokenSide=null&maskInds=..9&metaMatch=pos&metaMax=pos&displayInspector=null&offsetIdxs=..-1,0,1&hideClsSep=true)
-- Interpret word2vec: [word2viz](https://lamyiowce.github.io/word2viz/)
+- Interpret word2vec: [word2viz](https://lamyiowce.github.io/word2viz/), [whatlies](https://github.com/RasaHQ/whatlies)
 
 # Phase: Optimization
 ## Hyperparameter Optimization
@@ -188,16 +188,15 @@ Curated libraries for a faster workflow
 - General: [hyperopt](https://github.com/hyperopt/hyperopt), [optuna](https://optuna.org/), [evol](https://github.com/godatadriven/evol), [talos](https://github.com/autonomio/talos)
 
 ## Visualization
-- Draw CNN figures: [nn-svg](http://alexlenail.me/NN-SVG/LeNet.html)
+- Visualization libraries: [pygal](http://www.pygal.org/en/latest/index.html), [plotly](https://github.com/plotly/plotly.py), [plotnine](https://github.com/has2k1/plotnine)
+- Interactive charts: [bokeh](https://github.com/bokeh/bokeh)
 - Visualization for scikit-learn: [yellowbrick](https://www.scikit-yb.org/en/latest/index.html), [scikit-plot](https://scikit-plot.readthedocs.io/en/stable/metrics.html)
 - XKCD like charts: [chart.xkcd](https://timqian.com/chart.xkcd/)
 - Convert matplotlib charts to D3 charts: [mpld3](http://mpld3.github.io/index.html)
 - Generate graphs using markdown: [mermaid](https://mermaid-js.github.io/mermaid/#/README)
 - Visualize topics models: [pyldavis](https://pyldavis.readthedocs.io/en/latest/)
 - High dimensional visualization: [umap](https://github.com/lmcinnes/umap)
-- Visualization libraries: [pygal](http://www.pygal.org/en/latest/index.html), [plotly](https://github.com/plotly/plotly.py), [plotnine](https://github.com/has2k1/plotnine)
-- Interactive charts: [bokeh](https://github.com/bokeh/bokeh)
-- Visualize architectures: [netron](https://github.com/lutzroeder/netron)
+- Visualize architectures: [netron](https://github.com/lutzroeder/netron), [nn-svg](http://alexlenail.me/NN-SVG/LeNet.html)
 - Activation maps for keras: [keract](https://github.com/philipperemy/keract)
 - Create interactive charts online: [flourish-studio](https://flourish.studio/)
 - Color Schemes: [open-color](https://yeun.github.io/open-color/),[mplcyberpunk(cyberpunk style for matplotlib)](https://github.com/dhaitz/mplcyberpunk)
