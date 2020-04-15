@@ -13,6 +13,7 @@ Curated libraries for a faster workflow
 - Summarization Data: [curation-corpus](https://github.com/CurationCorp/curation-corpus)
 - Conversational data: [conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets), [cornell-movie-dialog-corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 - Image: [1 million fake faces](https://archive.org/details/1mFakeFaces), [flickr-faces](https://github.com/NVlabs/ffhq-dataset), [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html), [The Street View House Numbers (SVHN)](http://ufldl.stanford.edu/housenumbers/), [STL-10](http://ai.stanford.edu/~acoates/stl10/), [imagenette](https://github.com/fastai/imagenette), [objectnet](https://objectnet.dev/), [Yahoo Flickr Creative Commons 100 Million (YFCC100m)](http://projects.dfki.uni-kl.de/yfcc100m/)
+- Paraphrasing: [PPDB](http://paraphrase.org/)
 - Dataset search engine: [datasetlist](https://www.datasetlist.com/), [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php), [Google Dataset Search](https://toolbox.google.com/datasetsearch), [fastai-datasets](https://course.fast.ai/datasets.html), [Data For Everyone](https://www.figure-eight.com/data-for-everyone/)
 
 ## Importing Data
