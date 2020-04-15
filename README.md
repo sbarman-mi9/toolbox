@@ -137,9 +137,10 @@ Curated libraries for a faster workflow
 - Sentence Coherence: [lm-scorer](https://github.com/simonepri/lm-scorer)
 - Record Linking: [fuzzymatcher](https://github.com/RobinL/fuzzymatcher)
 
-## Speech Recognition
+## Audio
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/)
 - Diarization: [resemblyzer](https://github.com/resemble-ai/Resemblyzer)
+- Source Separation: [spleeter](https://github.com/deezer/spleeter)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn), [DeepCTR](https://github.com/shenweichen/DeepCTR)
