@@ -253,3 +253,6 @@ Curated libraries for a faster workflow
 - Testing: [crosshair(find failure cases for functions)](https://github.com/pschanely/CrossHair)
 - CLI tools: [gitjk](https://github.com/mapmeld/gitjk): Undo what you just did in git
 - Virtual webcam: [pyfakewebcam](https://github.com/jremmons/pyfakewebcam)
+
+## Workflow
+- [ripgrep](https://github.com/phiresky/ripgrep-all)
