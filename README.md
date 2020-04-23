@@ -126,6 +126,7 @@ Curated libraries for a faster workflow
 - Metrics: [seqeval (NER, POS tagging)](https://github.com/chakki-works/seqeval)
 - String match: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [pythonverbalexpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [commonregex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex)
 - Sentiment: [vaderSentiment (rule based)](https://github.com/cjhutto/vaderSentiment)
+- Aspect Based Sentiment Analysis: [absa](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis)
 - Text distances: [textdistance](https://github.com/life4/textdistance), [editdistance](https://github.com/aflc/editdistance), [word-mover-distance](https://radimrehurek.com/gensim/models/keyedvectors.html#what-can-i-do-with-word-vectors), [wmd-relax (word mover distance for spacy)](https://github.com/src-d/wmd-relax)
 - PID removal: [scrubadub](https://scrubadub.readthedocs.io/en/stable/#)
 - Profanity detection: [profanity-check](https://github.com/vzhou842/profanity-check)
