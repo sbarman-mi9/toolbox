@@ -74,6 +74,9 @@ Curated libraries for a faster workflow
 - Time series: [python-holidays](https://github.com/dr-prodigy/python-holidays), [skits](https://github.com/ethanrosenthal/skits)
 - DAG based dataset generation: [DFFML](https://intel.github.io/dffml/usage/integration.html)
 
+## Dimensionality reduction
+- Dimensionality reduction: [fbpca](https://github.com/facebook/fbpca), [fitsne](https://github.com/KlugerLab/FIt-SNE)
+
 # Phase: Modeling
 
 ## Model Selection
@@ -94,7 +97,6 @@ Curated libraries for a faster workflow
 - Anomaly detection: [adtk](https://arundo-adtk.readthedocs-hosted.com/en/stable/install.html)
 - Spiking Neural Network: [norse](https://github.com/norse/norse)
 - Fuzzy Learning: [fylearn](https://github.com/sorend/fylearn), [scikit-fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy)
-- Dimensionality reduction: [fbpca](https://github.com/facebook/fbpca)
 - Noisy Label Learning: [cleanlab](https://github.com/cgnorthcutt/cleanlab)
 - Few Shot Learning: [keras-fewshotlearning](https://github.com/ClementWalter/Keras-FewShotLearning)
 - Deep Clustering: [deep-clustering-toolbox](https://github.com/jizongFox/deep-clustering-toolbox)
