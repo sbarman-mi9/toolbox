@@ -94,7 +94,7 @@ Curated libraries for a faster workflow
 - Support Vector Machines: [thundersvm (GPU-capable)](https://github.com/Xtra-Computing/thundersvm)
 - Rule based classifier: [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
 - Probabilistic modeling: [pomegranate](https://github.com/jmschrei/pomegranate)
-- Graph Embedding and Community Detection: [karateclub](https://github.com/benedekrozemberczki/karateclub)
+- Graph Embedding and Community Detection: [karateclub](https://github.com/benedekrozemberczki/karateclub), [python-louvain](https://python-louvain.readthedocs.io/en/latest/)
 - Anomaly detection: [adtk](https://arundo-adtk.readthedocs-hosted.com/en/stable/install.html)
 - Spiking Neural Network: [norse](https://github.com/norse/norse)
 - Fuzzy Learning: [fylearn](https://github.com/sorend/fylearn), [scikit-fuzzy](https://github.com/scikit-fuzzy/scikit-fuzzy)
