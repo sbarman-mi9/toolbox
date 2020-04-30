@@ -114,6 +114,7 @@ Curated libraries for a faster workflow
 - Spelling Correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell), [hunspell-dictionaries](https://github.com/wooorm/dictionaries), [autocorrect (can add more languages)](https://github.com/phatpiglet/autocorrect), [symspellpy](https://github.com/mammothb/symspellpy)
 - Contraction Mapping: [contractions](https://github.com/kootenpv/contractions)
 - Keyword extraction: [rake](https://github.com/zelandiya/RAKE-tutorial), [pke](https://github.com/boudinfl/pke), [phrasemachine](https://github.com/slanglab/phrasemachine)
+- Stopwords: [stopwords-iso(stopwords for all languages)](https://github.com/stopwords-iso/stopwords-iso)
 - Multiply Choice Question Answering: [mcQA](https://github.com/mcQA-suite/mcQA)
 - Sequence to sequence models: [headliner](https://github.com/as-ideas/headliner)
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
