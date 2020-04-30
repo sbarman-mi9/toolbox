@@ -46,6 +46,7 @@ Curated libraries for a faster workflow
 # Phase: Exploration
 
 ##  Data Preparation
+- Dataframe: [cudf (pandas with GPU)](https://github.com/rapidsai/cudf)
 - Missing values: [missingno](https://github.com/ResidentMario/missingno)
 - Split images into train/validation/test: [split-folders](https://github.com/jfilter/split-folders)
 - Class Imbalance: [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html)
