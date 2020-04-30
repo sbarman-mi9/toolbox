@@ -215,6 +215,7 @@ Curated libraries for a faster workflow
 - Activation maps for keras: [keract](https://github.com/philipperemy/keract)
 - Create interactive charts online: [flourish-studio](https://flourish.studio/)
 - Color Schemes: [open-color](https://yeun.github.io/open-color/),[mplcyberpunk(cyberpunk style for matplotlib)](https://github.com/dhaitz/mplcyberpunk)
+- Bar chart race animation: [bar_chart_race](https://github.com/dexplo/bar_chart_race)
 
 # Phase: Production
 ## Model Serialization
