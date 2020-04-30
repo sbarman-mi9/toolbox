@@ -147,6 +147,7 @@ Curated libraries for a faster workflow
 - Knowledge Distillation: [textbrewer](https://github.com/airaria/TextBrewer)
 - Sentence Coherence: [lm-scorer](https://github.com/simonepri/lm-scorer)
 - Record Linking: [fuzzymatcher](https://github.com/RobinL/fuzzymatcher)
+- Markov chains: [markovify](https://github.com/jsvine/markovify)
 
 ## Audio
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/)
