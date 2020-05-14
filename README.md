@@ -257,6 +257,7 @@ Curated libraries for a faster workflow
 
 ## Python libraries
 - Datetime compatible API for Bikram Sambat: [nepali-date](https://github.com/arneec/nepali-date)
+- Decorators: [retrying (retry some function)](https://pypi.org/project/retrying/)
 - bloom filter: [python-bloomfilter](https://github.com/jaybaird/python-bloomfilter)
 - Run python libraries in sandbox: [pipx](https://github.com/pipxproject/pipx)
 - Pretty print tables in CLI: [tabulate](https://pypi.org/project/tabulate/)
