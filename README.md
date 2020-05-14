@@ -192,7 +192,7 @@ Curated libraries for a faster workflow
 - Learning curve: [lrcurve (plot realtime learning curve in Keras)](https://github.com/AndreasMadsen/python-lrcurve), [livelossplot](https://github.com/stared/livelossplot)
 - Notifications: [knockknock (get notified by slack/email)](https://github.com/huggingface/knockknock), [jupyter-notify (notify when task is completed in jupyter)](https://github.com/ShopRunner/jupyter-notify)
 - Progress bar: [fastprogress](https://github.com/fastai/fastprogress), [tqdm](https://github.com/tqdm/tqdm)
-- GPU Usage: [gpumonitor](https://github.com/sicara/gpumonitor)
+- GPU Usage: [gpumonitor](https://github.com/sicara/gpumonitor), [jupyterlab-nvdashboard(see gpu usage in jupyterlab)](https://github.com/rapidsai/jupyterlab-nvdashboard)
 
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
