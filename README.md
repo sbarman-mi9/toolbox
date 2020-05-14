@@ -51,7 +51,7 @@ Curated libraries for a faster workflow
 - Missing values: [missingno](https://github.com/ResidentMario/missingno)
 - Split images into train/validation/test: [split-folders](https://github.com/jfilter/split-folders)
 - Class Imbalance: [imblearn](https://imbalanced-learn.readthedocs.io/en/stable/api.html)
-- Categorical encoding: [category_encoders](https://contrib.scikit-learn.org/categorical-encoding/index.html)
+- Categorical encoding: [category_encoders](https://github.com/scikit-learn-contrib/category_encoders)
 - Numerical data: [numerizer (convert natural language numerics into ints and floats)](https://github.com/jaidevd/numerizer)
 - Data Validation: [pandera (validation for pandas)](https://github.com/pandera-dev/pandera)
 - Data Cleaning: [pyjanitor (janitor ported to python)](https://github.com/ericmjl/pyjanitor)
