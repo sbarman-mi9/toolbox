@@ -172,7 +172,7 @@ Curated libraries for a faster workflow
 - Video summarization: [videodigest](https://github.com/agermanidis/videodigest)
 - Semantic search over videos: [scoper](https://github.com/RameshAditya/scoper)
 - OCR: [keras-ocr](https://github.com/faustomorales/keras-ocr), [pytesseract](https://github.com/madmaze/pytesseract)
-- Object detection: [luminoth](https://github.com/tryolabs/luminoth)
+- Object detection: [luminoth](https://github.com/tryolabs/luminoth), [detectron2](https://github.com/facebookresearch/detectron2)
 - Image hashing: [ImageHash](https://pypi.org/project/ImageHash/)
 
 ## Timeseries
