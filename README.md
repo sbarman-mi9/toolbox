@@ -153,7 +153,7 @@ Curated libraries for a faster workflow
 - Markov chains: [markovify](https://github.com/jsvine/markovify)
 
 ## Audio
-- Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/)
+- Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/), [librosa](https://librosa.github.io/librosa/index.html)
 - Diarization: [resemblyzer](https://github.com/resemble-ai/Resemblyzer)
 - Source Separation: [spleeter](https://github.com/deezer/spleeter), [nussl](https://github.com/nussl/nussl), [open-unmix-pytorch](https://github.com/sigsep/open-unmix-pytorch), [asteroid](https://github.com/mpariente/asteroid)
 
@@ -230,6 +230,7 @@ Curated libraries for a faster workflow
 ## Scalability
 - Parallelize Pandas: [pandarallel](https://github.com/nalepae/pandarallel), [swifter](https://github.com/jmcarpenter2/swifter), [modin](https://github.com/modin-project/modin)
 - Parallelize numpy operations: [numba](http://numba.pydata.org/)
+- Distributed training: [horovod](https://github.com/horovod/horovod)
 
 ## Bechmark
 - Profile pytorch layers: [torchprof](https://github.com/awwong1/torchprof)
