@@ -35,6 +35,7 @@ Curated libraries for a faster workflow
 - Text to Speech: [gtts](https://github.com/pndurette/gTTS)
 - Databases: [blaze (pandas and numpy interface to databases)](https://github.com/blaze/blaze)
 - Twitter: [twint(scrape twitter)](https://github.com/twintproject/twint)
+- Prebuilt: [OpenML](https://openml.github.io/openml-python/master/)
 
 ## Data Augmentation
 - Text: [nlpaug](https://github.com/makcedward/nlpaug), [noisemix](https://github.com/noisemix/noisemix)
@@ -204,6 +205,7 @@ Curated libraries for a faster workflow
 - Keras: [keras-tuner](https://github.com/keras-team/keras-tuner)
 - Scikit-learn: [sklearn-deap (evolutionary algorithm for hyperparameter search)](https://github.com/rsteca/sklearn-deap), [hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn)
 - General: [hyperopt](https://github.com/hyperopt/hyperopt), [optuna](https://optuna.org/), [evol](https://github.com/godatadriven/evol), [talos](https://github.com/autonomio/talos)
+- Parameter optimization: [ParameterImportance](https://github.com/automl/ParameterImportance)
 
 ## Visualization
 - Visualization libraries: [pygal](http://www.pygal.org/en/latest/index.html), [plotly](https://github.com/plotly/plotly.py), [plotnine](https://github.com/has2k1/plotnine)
