@@ -154,7 +154,7 @@ Curated libraries for a faster workflow
 ## Audio
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/)
 - Diarization: [resemblyzer](https://github.com/resemble-ai/Resemblyzer)
-- Source Separation: [spleeter](https://github.com/deezer/spleeter)
+- Source Separation: [spleeter](https://github.com/deezer/spleeter), [nussl](https://github.com/nussl/nussl), [open-unmix-pytorch](https://github.com/sigsep/open-unmix-pytorch), [asteroid](https://github.com/mpariente/asteroid)
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn), [DeepCTR](https://github.com/shenweichen/DeepCTR)
