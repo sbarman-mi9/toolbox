@@ -83,7 +83,7 @@ Curated libraries for a faster workflow
 # Phase: Modeling
 
 ## Model Selection
-- Bruteforce through all scikit-learn model and parameters: [auto-sklearn](https://automl.github.io/auto-sklearn), [tpot](https://github.com/EpistasisLab/tpot)
+- AutoML for Scikit-Learn: [auto-sklearn](https://automl.github.io/auto-sklearn), [tpot](https://github.com/EpistasisLab/tpot)
 - Curations: [bert-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb), [autocat (auto-generate text classification models in spacy)](https://autocat.apps.allenai.org/)
 - ML from command line (or Python or HTTP): [DFFML](https://intel.github.io/dffml/)
