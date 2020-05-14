@@ -176,7 +176,7 @@ Curated libraries for a faster workflow
 - Image hashing: [ImageHash](https://pypi.org/project/ImageHash/)
 
 ## Timeseries
-- Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api), [atspy(automated time-series models)](https://github.com/firmai/atspy)
+- Predict Time Series: [prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api), [atspy(automated time-series models)](https://github.com/firmai/atspy), [tslearn](https://github.com/tslearn-team/tslearn), [pyts](https://github.com/johannfaouzi/pyts), [seglearn](https://github.com/dmbee/seglearn), [cesium](https://github.com/cesium-ml/cesium), [stumpy](https://github.com/TDAmeritrade/stumpy)
 - Scikit-learn like API: [sktime](https://github.com/alan-turing-institute/sktime)
 - ARIMA models: [pmdarima](https://github.com/alkaline-ml/pmdarima)
 
