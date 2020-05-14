@@ -191,7 +191,7 @@ Curated libraries for a faster workflow
 ## Model Training Monitoring
 - Learning curve: [lrcurve (plot realtime learning curve in Keras)](https://github.com/AndreasMadsen/python-lrcurve), [livelossplot](https://github.com/stared/livelossplot)
 - Notifications: [knockknock (get notified by slack/email)](https://github.com/huggingface/knockknock), [jupyter-notify (notify when task is completed in jupyter)](https://github.com/ShopRunner/jupyter-notify)
-- Progress bar: [fastprogress](https://github.com/fastai/fastprogress)
+- Progress bar: [fastprogress](https://github.com/fastai/fastprogress), [tqdm](https://github.com/tqdm/tqdm)
 - GPU Usage: [gpumonitor](https://github.com/sicara/gpumonitor)
 
 ## Interpretability
