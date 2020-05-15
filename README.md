@@ -90,7 +90,7 @@ Curated libraries for a faster workflow
 - ML from command line (or Python or HTTP): [DFFML](https://intel.github.io/dffml/)
 - Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota), [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch)
 - Find SOTA models: [sotawhat](https://sotawhat.herokuapp.com)
-- Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html), [lightgbm (GPU-capable)](https://github.com/Microsoft/LightGBM), [thunderbm (GPU-capable)](https://github.com/Xtra-Computing/thundergbm)
+- Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html), [lightgbm (GPU-capable)](https://github.com/Microsoft/LightGBM), [thunderbm (GPU-capable)](https://github.com/Xtra-Computing/thundergbm), [ngboost](https://github.com/stanfordmlgroup/ngboost)
 - Hidden Markov Models: [hmmlearn](https://github.com/hmmlearn/hmmlearn)
 - Genetic Programming: [gplearn](https://gplearn.readthedocs.io/en/stable/index.html)
 - Active Learning: [modal](https://github.com/modAL-python/modAL)
