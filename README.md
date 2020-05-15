@@ -160,6 +160,7 @@ Curated libraries for a faster workflow
 
 ## RecSys
 - Factorization machines (FM), and field-aware factorization machines (FFM): [xlearn](https://github.com/aksnzhy/xlearn), [DeepCTR](https://github.com/shenweichen/DeepCTR)
+- Collaborative Filtering: [implicit](https://github.com/benfred/implicit)
 - Scikit-learn like API: [surprise](https://github.com/NicolasHug/Surprise)
 - Recommendation System in Pytorch: [CaseRecommender](https://github.com/caserec/CaseRecommender)
 - Apriori algorithm: [apyori](https://github.com/ymoch/apyori)
