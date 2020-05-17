@@ -6,6 +6,7 @@ Curated libraries for a faster workflow
 - Image: [makesense.ai](https://www.makesense.ai/) 
 - Text: [doccano](https://doccano.herokuapp.com/), [prodigy](https://prodi.gy/), [dataturks](https://dataturks.com/), [brat](http://brat.nlplab.org/)
 - Audio: [audio-annotator](https://github.com/CrowdCurio/audio-annotator)
+- Label in notebooks: [superintendent](https://superintendent.readthedocs.io/en/latest/installation.html)
 
 ## Data Collection
 - Words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words)](https://github.com/dwyl/english-words), [10K most common words](https://github.com/first20hours/google-10000-english)
