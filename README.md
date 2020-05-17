@@ -274,6 +274,7 @@ Curated libraries for a faster workflow
 - CLI tools: [gitjk](https://github.com/mapmeld/gitjk): Undo what you just did in git
 - Virtual webcam: [pyfakewebcam](https://github.com/jremmons/pyfakewebcam)
 - CLI Formatting: [rich](https://github.com/willmcgugan/rich)
+- Control mouse and output device: [pynput](https://pypi.org/project/pynput/)
 
 ## Workflow
 - [ripgrep](https://github.com/phiresky/ripgrep-all)
