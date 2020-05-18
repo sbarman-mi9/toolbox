@@ -37,7 +37,7 @@ Curated libraries for a faster workflow
 - Text to Speech: [gtts](https://github.com/pndurette/gTTS)
 - Databases: [blaze (pandas and numpy interface to databases)](https://github.com/blaze/blaze)
 - Twitter: [twint(scrape twitter)](https://github.com/twintproject/twint)
-- Prebuilt: [OpenML](https://openml.github.io/openml-python/master/)
+- Prebuilt: [OpenML](https://openml.github.io/openml-python/master/), [nlp](https://github.com/huggingface/nlp)
 
 ## Data Augmentation
 - Text: [nlpaug](https://github.com/makcedward/nlpaug), [noisemix](https://github.com/noisemix/noisemix), [textattack](https://github.com/QData/TextAttack)
