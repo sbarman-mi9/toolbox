@@ -19,6 +19,7 @@ Curated libraries for a faster workflow
 - One Shot Learning: [omniglot](https://github.com/brendenlake/omniglot), [mini-imagenet](https://github.com/yaoyao-liu/mini-imagenet-tools)
 - Audio: [audioset (youtube audio with labels)](https://research.google.com/audioset/index.html)
 - Dataset search engine: [datasetlist](https://www.datasetlist.com/), [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php), [Google Dataset Search](https://toolbox.google.com/datasetsearch), [fastai-datasets](https://course.fast.ai/datasets.html), [Data For Everyone](https://www.figure-eight.com/data-for-everyone/)
+- Graphs: [Social Networks (Github, Facebook, Reddit)](https://github.com/benedekrozemberczki/datasets)
 
 ## Importing Data
 - Audio: [pydub](https://github.com/jiaaro/pydub)
@@ -63,6 +64,7 @@ Curated libraries for a faster workflow
 - Unicode: [text-unidecode](https://pypi.org/project/text-unidecode/)
 - Emoji: [emoji](https://pypi.org/project/emoji/)
 - Weak Supervision: [snorkel](https://www.snorkel.org/get-started/)
+- Graph Sampling: [little ball of fur](https://github.com/benedekrozemberczki/littleballoffur)
 
 ## Data Exploration
 - View Jupyter notebooks through CLI: [nbdime](https://github.com/jupyter/nbdime)
