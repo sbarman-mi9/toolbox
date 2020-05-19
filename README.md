@@ -277,6 +277,7 @@ Curated libraries for a faster workflow
 - Virtual webcam: [pyfakewebcam](https://github.com/jremmons/pyfakewebcam)
 - CLI Formatting: [rich](https://github.com/willmcgugan/rich)
 - Control mouse and output device: [pynput](https://pypi.org/project/pynput/)
+- Shell commands as functions: [sh](http://amoffat.github.io/sh/)
 
 ## Workflow
 - [ripgrep](https://github.com/phiresky/ripgrep-all)
