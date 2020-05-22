@@ -20,6 +20,7 @@ Curated libraries for a faster workflow
 - Audio: [audioset (youtube audio with labels)](https://research.google.com/audioset/index.html)
 - Dataset search engine: [datasetlist](https://www.datasetlist.com/), [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php), [Google Dataset Search](https://toolbox.google.com/datasetsearch), [fastai-datasets](https://course.fast.ai/datasets.html), [Data For Everyone](https://www.figure-eight.com/data-for-everyone/)
 - Graphs: [Social Networks (Github, Facebook, Reddit)](https://github.com/benedekrozemberczki/datasets)
+- Handwriting: [iam-handwriting](http://www.fki.inf.unibe.ch/databases/iam-on-line-handwriting-database)
 
 ## Importing Data
 - Prebuilt: [OpenML](https://openml.github.io/openml-python/master/), [nlp](https://github.com/huggingface/nlp)
