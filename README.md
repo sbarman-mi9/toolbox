@@ -22,6 +22,7 @@ Curated libraries for a faster workflow
 - Graphs: [Social Networks (Github, Facebook, Reddit)](https://github.com/benedekrozemberczki/datasets)
 
 ## Importing Data
+- Prebuilt: [OpenML](https://openml.github.io/openml-python/master/), [nlp](https://github.com/huggingface/nlp)
 - Audio: [pydub](https://github.com/jiaaro/pydub)
 - Video: [pytube (download youtube vidoes)](https://github.com/nficano/pytube), [moviepy](https://zulko.github.io/moviepy/)
 - Image: [py-image-dataset-generator (auto fetch images from web for certain search)](https://github.com/tomahim/py-image-dataset-generator)
@@ -38,7 +39,7 @@ Curated libraries for a faster workflow
 - Text to Speech: [gtts](https://github.com/pndurette/gTTS)
 - Databases: [blaze (pandas and numpy interface to databases)](https://github.com/blaze/blaze)
 - Twitter: [twint(scrape twitter)](https://github.com/twintproject/twint)
-- Prebuilt: [OpenML](https://openml.github.io/openml-python/master/), [nlp](https://github.com/huggingface/nlp)
+- App Store: [google-play-scraper](https://github.com/JoMingyu/google-play-scraper)
 
 ## Data Augmentation
 - Text: [nlpaug](https://github.com/makcedward/nlpaug), [noisemix](https://github.com/noisemix/noisemix), [textattack](https://github.com/QData/TextAttack)
