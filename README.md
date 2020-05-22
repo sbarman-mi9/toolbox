@@ -156,6 +156,7 @@ Curated libraries for a faster workflow
 - Sentence Coherence: [lm-scorer](https://github.com/simonepri/lm-scorer)
 - Record Linking: [fuzzymatcher](https://github.com/RobinL/fuzzymatcher)
 - Markov chains: [markovify](https://github.com/jsvine/markovify)
+- Knowledge Graphs: [stanford-openie](https://github.com/philipperemy/Stanford-OpenIE-Python)
 
 ## Audio
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/), [librosa](https://librosa.github.io/librosa/index.html)
