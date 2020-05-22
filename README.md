@@ -117,6 +117,7 @@ Curated libraries for a faster workflow
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
 - Text Extraction: [textract (Image, Audio, PDF)](https://textract.readthedocs.io/en/stable/)
 - Text Generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn), [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple), [aitextgen](https://github.com/minimaxir/aitextgen)
+- Machine Translation: [MarianMT](https://huggingface.co/transformers/model_doc/marian.html)
 - Summarization: [textrank](https://github.com/summanlp/textrank), [pytldr](https://github.com/jaijuneja/PyTLDR), [bert-extractive-summarizer](https://github.com/dmmiller612/bert-extractive-summarizer), [sumy](https://github.com/miso-belica/sumy), [fast-pagerank](https://github.com/asajadi/fast-pagerank), [sumeval](https://github.com/chakki-works/sumeval)
 - Spelling Correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell), [hunspell-dictionaries](https://github.com/wooorm/dictionaries), [autocorrect (can add more languages)](https://github.com/phatpiglet/autocorrect), [symspellpy](https://github.com/mammothb/symspellpy)
 - Contraction Mapping: [contractions](https://github.com/kootenpv/contractions)
