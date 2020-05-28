@@ -30,6 +30,7 @@ Curated libraries for a faster workflow
 - Video: [pytube (download youtube vidoes)](https://github.com/nficano/pytube), [moviepy](https://zulko.github.io/moviepy/)
 - Image: [py-image-dataset-generator (auto fetch images from web for certain search)](https://github.com/tomahim/py-image-dataset-generator)
 - News: [news-please](https://github.com/fhamborg/news-please), [news-catcher](https://github.com/kotartemiy/newscatcher/blob/master/README.md)
+- Lyrics: [lyricsgenius](https://github.com/johnwmillr/LyricsGenius)
 - Email: [talon](https://github.com/mailgun/talon)
 - PDF: [camelot](https://camelot-py.readthedocs.io/en/master/), [tabula-py](https://github.com/chezou/tabula-py), [Parsr](https://github.com/axa-group/Parsr), [pdftotext](https://pypi.org/project/pdftotext/), [pdfplumber](https://github.com/jsvine/pdfplumber)
 - Excel: [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
