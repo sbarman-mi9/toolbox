@@ -25,7 +25,7 @@ Curated libraries for a faster workflow
 - Handwriting: [iam-handwriting](http://www.fki.inf.unibe.ch/databases/iam-on-line-handwriting-database)
 
 ## Importing Data
-- Prebuilt: [OpenML](https://openml.github.io/openml-python/master/), [nlp](https://github.com/huggingface/nlp)
+- Prebuilt: [OpenML](https://openml.github.io/openml-python/master/), [nlp](https://github.com/huggingface/nlp), [lineflow](https://github.com/tofunlp/lineflow)
 - Audio: [pydub](https://github.com/jiaaro/pydub)
 - Video: [pytube (download youtube vidoes)](https://github.com/nficano/pytube), [moviepy](https://zulko.github.io/moviepy/)
 - Image: [py-image-dataset-generator (auto fetch images from web for certain search)](https://github.com/tomahim/py-image-dataset-generator)
