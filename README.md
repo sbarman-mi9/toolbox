@@ -240,7 +240,7 @@ Curated libraries for a faster workflow
 
 # Phase: Production
 ## Model Serialization
-- Transpiling: [sklearn-porter (transpile sklearn model to C, Java, JavaScript and others)](https://github.com/nok/sklearn-porter), [m2cgen](https://github.com/BayesWitnesses/m2cgen)
+- Transpiling: [sklearn-porter (transpile sklearn model to C, Java, JavaScript and others)](https://github.com/nok/sklearn-porter), [m2cgen](https://github.com/BayesWitnesses/m2cgen), [hummingbird (convert boosting models to pytorch](https://github.com/microsoft/hummingbird)
 - Pickling extended: [cloudpickle](https://github.com/cloudpipe/cloudpickle), [jsonpickle](https://github.com/jsonpickle/jsonpickle)
 
 ## Scalability
