@@ -9,9 +9,11 @@ Curated libraries for a faster workflow
 - Label in notebooks: [superintendent](https://superintendent.readthedocs.io/en/latest/installation.html)
 
 ## Data Collection
-- Words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words)](https://github.com/dwyl/english-words), [10K most common words](https://github.com/first20hours/google-10000-english)
-- Text Corpus: [project gutenberg](https://www.gutenberg.org/), [oscar (big multilingual corpus)](https://traces1.inria.fr/oscar/), [nlp-datasets](https://github.com/niderhoff/nlp-datasets),  [1 trillion n-grams](https://catalog.ldc.upenn.edu/LDC2006T13), [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html), [litbank](https://github.com/dbamman/litbank)
-- Sentiment: [SST2](https://github.com/clairett/pytorch-sentiment-classification/tree/master/data/SST2)
+- Curations: [nlp-datasets](https://github.com/niderhoff/nlp-datasets), [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
+- Words: [curse-words](https://github.com/reimertz/curse-words), [badwords](https://github.com/MauriceButler/badwords), [LDNOOBW](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words), [english-words (A text file containing over 466k English words)](https://github.com/dwyl/english-words), [10K most common words](https://github.com/first20hours/google-10000-english), [common-misspellings](https://bitbucket.org/bedizel/moe/src/master/data/)
+- Text Corpus: [project gutenberg](https://www.gutenberg.org/), [oscar (big multilingual corpus)](https://traces1.inria.fr/oscar/), [nlp-datasets](https://github.com/niderhoff/nlp-datasets),  [1 trillion n-grams](https://catalog.ldc.upenn.edu/LDC2006T13), [litbank](https://github.com/dbamman/litbank), [BookCorpus](https://github.com/soskek/bookcorpus)
+- Sentiment: [SST2](https://github.com/clairett/pytorch-sentiment-classification/tree/master/data/SST2), [Amazon Reviews](https://www.kaggle.com/bittlingmayer/amazonreviews), [Yelp Reviews](https://www.kaggle.com/yelp-dataset/yelp-dataset), [Movie Reviews](http://www.cs.cornell.edu/people/pabo/movie-review-data/), [Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews), [Twitter Airline](https://www.kaggle.com/crowdflower/twitter-airline-sentiment), [GOP Debate](https://www.kaggle.com/crowdflower/first-gop-debate-twitter-sentiment), [Sentiment Lexicons for 81 languages](https://www.kaggle.com/rtatman/sentiment-lexicons-for-81-languages), [SentiWordNet](http://sentiwordnet.isti.cnr.it/), [Opinion Lexicon](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#lexicon), [Wordstat words](https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/sentiment-dictionaries/), [Emoticon Sentiment](http://people.few.eur.nl/hogenboom/files/EmoticonSentimentLexicon.zip)
+- Emotion: [NRC-Emotion-Lexicon-Wordlevel](https://raw.githubusercontent.com/dinbav/LeXmo/master/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt), [ISEAR(17K)](https://github.com/PoorvaRane/Emotion-Detector/blob/master/ISEAR.csv)
 - Summarization Data: [curation-corpus](https://github.com/CurationCorp/curation-corpus)
 - Conversational data: [conversational-datasets](https://github.com/PolyAI-LDN/conversational-datasets), [cornell-movie-dialog-corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 - Image: [1 million fake faces](https://archive.org/details/1mFakeFaces), [flickr-faces](https://github.com/NVlabs/ffhq-dataset), [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html), [The Street View House Numbers (SVHN)](http://ufldl.stanford.edu/housenumbers/), [STL-10](http://ai.stanford.edu/~acoates/stl10/), [imagenette](https://github.com/fastai/imagenette), [objectnet](https://objectnet.dev/), [Yahoo Flickr Creative Commons 100 Million (YFCC100m)](http://projects.dfki.uni-kl.de/yfcc100m/), [USPS](https://www.kaggle.com/bistaumanga/usps-dataset), [Animal Faces-HQ dataset (AFHQ)](https://github.com/clovaai/stargan-v2/blob/master/README.md#animal-faces-hq-dataset-afhq)
@@ -20,12 +22,15 @@ Curated libraries for a faster workflow
 - Audio: [audioset (youtube audio with labels)](https://research.google.com/audioset/index.html)
 - Dataset search engine: [datasetlist](https://www.datasetlist.com/), [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/datasets.php), [Google Dataset Search](https://toolbox.google.com/datasetsearch), [fastai-datasets](https://course.fast.ai/datasets.html), [Data For Everyone](https://www.figure-eight.com/data-for-everyone/)
 - Graphs: [Social Networks (Github, Facebook, Reddit)](https://github.com/benedekrozemberczki/datasets)
+- Handwriting: [iam-handwriting](http://www.fki.inf.unibe.ch/databases/iam-on-line-handwriting-database)
 
 ## Importing Data
+- Prebuilt: [OpenML](https://openml.github.io/openml-python/master/), [nlp](https://github.com/huggingface/nlp), [lineflow](https://github.com/tofunlp/lineflow)
 - Audio: [pydub](https://github.com/jiaaro/pydub)
 - Video: [pytube (download youtube vidoes)](https://github.com/nficano/pytube), [moviepy](https://zulko.github.io/moviepy/)
 - Image: [py-image-dataset-generator (auto fetch images from web for certain search)](https://github.com/tomahim/py-image-dataset-generator)
-- News: [news-please](https://github.com/fhamborg/news-please)
+- News: [news-please](https://github.com/fhamborg/news-please), [news-catcher](https://github.com/kotartemiy/newscatcher/blob/master/README.md)
+- Lyrics: [lyricsgenius](https://github.com/johnwmillr/LyricsGenius)
 - Email: [talon](https://github.com/mailgun/talon)
 - PDF: [camelot](https://camelot-py.readthedocs.io/en/master/), [tabula-py](https://github.com/chezou/tabula-py), [Parsr](https://github.com/axa-group/Parsr), [pdftotext](https://pypi.org/project/pdftotext/), [pdfplumber](https://github.com/jsvine/pdfplumber)
 - Excel: [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
@@ -38,7 +43,7 @@ Curated libraries for a faster workflow
 - Text to Speech: [gtts](https://github.com/pndurette/gTTS)
 - Databases: [blaze (pandas and numpy interface to databases)](https://github.com/blaze/blaze)
 - Twitter: [twint(scrape twitter)](https://github.com/twintproject/twint)
-- Prebuilt: [OpenML](https://openml.github.io/openml-python/master/), [nlp](https://github.com/huggingface/nlp)
+- App Store: [google-play-scraper](https://github.com/JoMingyu/google-play-scraper)
 
 ## Data Augmentation
 - Text: [nlpaug](https://github.com/makcedward/nlpaug), [noisemix](https://github.com/noisemix/noisemix), [textattack](https://github.com/QData/TextAttack)
@@ -88,11 +93,11 @@ Curated libraries for a faster workflow
 # Phase: Modeling
 
 ## Model Selection
+- Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota), [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch), [huggingface-models](https://huggingface.co/models)
 - Automated Machine Learning (AutoML): [auto-sklearn](https://automl.github.io/auto-sklearn), [tpot](https://github.com/EpistasisLab/tpot), [mljar-supervised](https://github.com/mljar/mljar-supervised)
 - Curations: [bert-related-papers](https://github.com/tomohideshibata/BERT-related-papers)
 - Autogenerate ML code: [automl-gs](https://github.com/minimaxir/automl-gs), [mindsdb](https://github.com/mindsdb/mindsdb), [autocat (auto-generate text classification models in spacy)](https://autocat.apps.allenai.org/), [lugwig](https://uber.github.io/ludwig/)
 - ML from command line (or Python or HTTP): [DFFML](https://intel.github.io/dffml/)
-- Pretrained models: [modeldepot](https://modeldepot.io/browse), [pytorch-hub](https://pytorch.org/hub), [papers-with-code](https://paperswithcode.com/sota), [pretrained-models.pytorch](https://github.com/Cadene/pretrained-models.pytorch)
 - Find SOTA models: [sotawhat](https://sotawhat.herokuapp.com)
 - Gradient Boosting: [catboost](https://catboost.ai/docs/concepts/about.html), [lightgbm (GPU-capable)](https://github.com/Microsoft/LightGBM), [thunderbm (GPU-capable)](https://github.com/Xtra-Computing/thundergbm), [ngboost](https://github.com/stanfordmlgroup/ngboost)
 - Hidden Markov Models: [hmmlearn](https://github.com/hmmlearn/hmmlearn)
@@ -112,10 +117,14 @@ Curated libraries for a faster workflow
 - Contrastive Learning: [contrastive-learner](https://github.com/lucidrains/contrastive-learner)
 
 ## NLP
-- Libraries: [spacy](https://spacy.io/) , [nltk](https://github.com/nltk/nltk), [corenlp](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html), [kashgari](https://kashgari.bmio.net/), [camphr (spacy plugin for transformers, elmo, udify)](https://github.com/PKSHATechnology-Research/camphr/), [transformers](https://github.com/huggingface/transformers), [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers), [ernie](https://github.com/brunneis/ernie), [stanza](https://stanfordnlp.github.io/stanza/), [scispacy (spacy for medical documents)](https://github.com/allenai/scispacy)
+- Libraries: [spacy](https://spacy.io/) , [nltk](https://github.com/nltk/nltk), [corenlp](https://stanfordnlp.github.io/CoreNLP/), [deeppavlov](http://docs.deeppavlov.ai/en/master/index.html), [kashgari](https://kashgari.bmio.net/), [camphr (spacy plugin for transformers, elmo, udify)](https://github.com/PKSHATechnology-Research/camphr/), [transformers](https://github.com/huggingface/transformers), [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers), [ernie](https://github.com/brunneis/ernie), [stanza](https://stanfordnlp.github.io/stanza/)
+- Domain-specific BERT: [CodeBERT](https://huggingface.co/codistai/codeBERT-small-v2#)
+- Scientific Domain: [scispacy (spacy for medical documents)](https://github.com/allenai/scispacy)
+- Clinical Domain: [clinicalbert-mimicnotes](https://huggingface.co/emilyalsentzer/Bio_ClinicalBERT), [clinicalbert-discharge-summary](https://huggingface.co/emilyalsentzer/Bio_Discharge_Summary_BERT)
 - Preprocessing: [textacy](https://github.com/chartbeat-labs/textacy)
 - Text Extraction: [textract (Image, Audio, PDF)](https://textract.readthedocs.io/en/stable/)
 - Text Generation: [gp2client](https://github.com/rish-16/gpt2client), [textgenrnn](https://github.com/minimaxir/textgenrnn), [gpt-2-simple](https://github.com/minimaxir/gpt-2-simple), [aitextgen](https://github.com/minimaxir/aitextgen)
+- Machine Translation: [MarianMT](https://huggingface.co/transformers/model_doc/marian.html)
 - Summarization: [textrank](https://github.com/summanlp/textrank), [pytldr](https://github.com/jaijuneja/PyTLDR), [bert-extractive-summarizer](https://github.com/dmmiller612/bert-extractive-summarizer), [sumy](https://github.com/miso-belica/sumy), [fast-pagerank](https://github.com/asajadi/fast-pagerank), [sumeval](https://github.com/chakki-works/sumeval)
 - Spelling Correction: [JamSpell](https://github.com/bakwc/JamSpell), [pyhunspell](https://github.com/blatinier/pyhunspell), [pyspellchecker](https://github.com/barrust/pyspellchecker), [cython_hunspell](https://github.com/MSeal/cython_hunspell), [hunspell-dictionaries](https://github.com/wooorm/dictionaries), [autocorrect (can add more languages)](https://github.com/phatpiglet/autocorrect), [symspellpy](https://github.com/mammothb/symspellpy)
 - Contraction Mapping: [contractions](https://github.com/kootenpv/contractions)
@@ -126,7 +135,7 @@ Curated libraries for a faster workflow
 - Transfer learning: [finetune](https://github.com/IndicoDataSolutions/finetune)
 - Translation: [googletrans](https://pypi.org/project/googletrans/), [word2word](https://github.com/Kyubyong/word2word), [translate-python](https://github.com/terryyin/translate-python)
 - Embeddings: [pymagnitude (manage vector embeddings easily)](https://github.com/plasticityai/magnitude), [chakin (download pre-trained word vectors)](https://github.com/chakki-works/chakin), [sentence-transformers](https://github.com/UKPLab/sentence-transformers), [InferSent](https://github.com/facebookresearch/InferSent), [bert-as-service](https://github.com/hanxiao/bert-as-service), [sent2vec](https://github.com/NewKnowledge/nk-sent2vec), [sense2vec](https://github.com/explosion/sense2vec), [zeugma (pretrained-word embeddings as scikit-learn transformers)](https://github.com/nkthiebaut/zeugma), [BM25Transformer](https://github.com/arosh/BM25Transformer),[glove-python](https://github.com/maciejkula/glove-python), [fse](https://github.com/oborchers/Fast_Sentence_Embeddings)
-- Cross-lingual embeddings: [muse](https://github.com/facebookresearch/MUSE), [laserembeddings](https://pypi.org/project/laserembeddings/)
+- Cross-lingual Lanuage Models: [muse](https://github.com/facebookresearch/MUSE), [laserembeddings](https://pypi.org/project/laserembeddings/), [xlm](https://github.com/facebookresearch/XLM)
 - Multilingual support: [polyglot](https://polyglot.readthedocs.io/en/latest/index.html), [inltk (indic languages)](https://github.com/goru001/inltk), [indic_nlp](https://github.com/anoopkunchukuttan/indic_nlp_library)
 - NLU: [snips-nlu](https://github.com/snipsco/snips-nlu)
 - Semantic parsing: [quepy](https://github.com/machinalis/quepy)
@@ -135,12 +144,13 @@ Curated libraries for a faster workflow
 - Coreference Resolution: [neuralcoref](https://github.com/huggingface/neuralcoref)
 - Readability: [homer](https://github.com/wyounas/homer)
 - Language Detection: [language-check](https://github.com/myint/language-check)
-- Topic Modeling: [guidedlda](https://github.com/vi3k6i5/guidedlda), [enstop](https://github.com/lmcinnes/enstop), [top2vec](https://github.com/ddangelov/Top2Vec), [contextualized-topic-models](https://github.com/MilaNLProc/contextualized-topic-models), [corex_topic](https://github.com/gregversteeg/corex_topic)
+- Topic Modeling: [guidedlda](https://github.com/vi3k6i5/guidedlda), [enstop](https://github.com/lmcinnes/enstop), [top2vec](https://github.com/ddangelov/Top2Vec), [contextualized-topic-models](https://github.com/MilaNLProc/contextualized-topic-models), [corex_topic](https://github.com/gregversteeg/corex_topic), [lda2vec](https://github.com/cemoody/lda2vec)
 - Clustering: [spherecluster (kmeans with cosine distance)](https://github.com/jasonlaska/spherecluster), [kneed (automatically find number of clusters from elbow curve)](https://github.com/arvkevi/kneed), [kmodes](https://github.com/nicodv/kmodes)
 - Metrics: [seqeval (NER, POS tagging)](https://github.com/chakki-works/seqeval)
 - String match: [jellyfish (perform string and phonetic comparison)](https://pypi.org/project/jellyfish/),[flashtext (superfast extract and replace keywords)](https://github.com/vi3k6i5/flashtext), [pythonverbalexpressions: (verbally describe regex)](https://github.com/VerbalExpressions/PythonVerbalExpressions), [commonregex (readymade regex for email/phone etc)](https://github.com/madisonmay/CommonRegex), [phrase-seeker](https://github.com/kirillgashkov/phrase-seeker), [textsearch](https://github.com/kootenpv/textsearch)
 - Sentiment: [vaderSentiment (rule based)](https://github.com/cjhutto/vaderSentiment)
 - Aspect Based Sentiment Analysis: [absa](https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis)
+- Emotion Classification: [distilroberta-finetuned](https://huggingface.co/mrm8488/distilroberta-base-finetuned-sentiment)
 - Text distances: [textdistance](https://github.com/life4/textdistance), [editdistance](https://github.com/aflc/editdistance), [word-mover-distance](https://radimrehurek.com/gensim/models/keyedvectors.html#what-can-i-do-with-word-vectors), [wmd-relax (word mover distance for spacy)](https://github.com/src-d/wmd-relax)
 - PID removal: [scrubadub](https://scrubadub.readthedocs.io/en/stable/#)
 - Profanity detection: [profanity-check](https://github.com/vzhou842/profanity-check)
@@ -155,6 +165,8 @@ Curated libraries for a faster workflow
 - Sentence Coherence: [lm-scorer](https://github.com/simonepri/lm-scorer)
 - Record Linking: [fuzzymatcher](https://github.com/RobinL/fuzzymatcher)
 - Markov chains: [markovify](https://github.com/jsvine/markovify)
+- Knowledge Graphs: [stanford-openie](https://github.com/philipperemy/Stanford-OpenIE-Python)
+- Chinese Word Segmentation: [jieba](https://github.com/fxsjy/jieba)
 
 ## Audio
 - Library: [speech_recognition](https://github.com/Uberi/speech_recognition), [pyannotate](http://pyannote.github.io/), [librosa](https://librosa.github.io/librosa/index.html)
@@ -202,7 +214,7 @@ Curated libraries for a faster workflow
 ## Interpretability
 - Visualize keras models: [keras-vis](https://github.com/raghakot/keras-vis)
 - Interpret models: [eli5](https://eli5.readthedocs.io/en/latest/), [lime](https://github.com/marcotcr/lime), [shap](https://github.com/slundberg/shap), [alibi](https://github.com/SeldonIO/alibi), [tf-explain](https://github.com/sicara/tf-explain), [treeinterpreter](https://github.com/andosa/treeinterpreter), [pybreakdown](https://github.com/MI2DataLab/pyBreakDown), [xai](https://github.com/EthicalML/xai), [lofo-importance](https://github.com/aerdem4/lofo-importance), [interpretML](https://github.com/interpretml/interpret)
-- Interpret BERT: [exbert](http://exbert.net/exBERT.html?sentence=I%20liked%20the%20music&layer=0&heads=..0,1,2,3,4,5,6,7,8,9,10,11&threshold=0.7&tokenInd=null&tokenSide=null&maskInds=..9&metaMatch=pos&metaMax=pos&displayInspector=null&offsetIdxs=..-1,0,1&hideClsSep=true)
+- Interpret BERT: [exbert](http://exbert.net/exBERT.html?sentence=I%20liked%20the%20music&layer=0&heads=..0,1,2,3,4,5,6,7,8,9,10,11&threshold=0.7&tokenInd=null&tokenSide=null&maskInds=..9&metaMatch=pos&metaMax=pos&displayInspector=null&offsetIdxs=..-1,0,1&hideClsSep=true), [bertviz (see attention)](https://github.com/jessevig/bertviz)
 - Interpret word2vec: [word2viz](https://lamyiowce.github.io/word2viz/), [whatlies](https://github.com/RasaHQ/whatlies)
 
 # Phase: Optimization
@@ -229,7 +241,7 @@ Curated libraries for a faster workflow
 
 # Phase: Production
 ## Model Serialization
-- Transpiling: [sklearn-porter (transpile sklearn model to C, Java, JavaScript and others)](https://github.com/nok/sklearn-porter), [m2cgen](https://github.com/BayesWitnesses/m2cgen)
+- Transpiling: [sklearn-porter (transpile sklearn model to C, Java, JavaScript and others)](https://github.com/nok/sklearn-porter), [m2cgen](https://github.com/BayesWitnesses/m2cgen), [hummingbird (convert boosting models to pytorch](https://github.com/microsoft/hummingbird)
 - Pickling extended: [cloudpickle](https://github.com/cloudpipe/cloudpickle), [jsonpickle](https://github.com/jsonpickle/jsonpickle)
 
 ## Scalability
@@ -277,6 +289,7 @@ Curated libraries for a faster workflow
 - Virtual webcam: [pyfakewebcam](https://github.com/jremmons/pyfakewebcam)
 - CLI Formatting: [rich](https://github.com/willmcgugan/rich)
 - Control mouse and output device: [pynput](https://pypi.org/project/pynput/)
+- Shell commands as functions: [sh](http://amoffat.github.io/sh/)
 
 ## Workflow
 - [ripgrep](https://github.com/phiresky/ripgrep-all)
